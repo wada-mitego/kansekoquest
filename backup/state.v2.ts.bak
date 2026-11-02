@@ -1,0 +1,206 @@
+import { BALANCE, BOSSES, maxHp, maxMp } from './config';
+import { BASE_STAT, BEST_STAT, GENRES, GenreId, JOBS, JobId, Stats } from './data';
+import { QUESTIONS, Question } from './questions';
+
+export interface QHistory {
+  /** 回答回数 */
+  n: number;
+  /** 正解回数 */
+  c: number;
+  /** 直近の回答が正解だったか */
+  lastOk: boolean;
+  /** すでに能力加算済みか（1問につき育成加算は1回だけ） */
+  grown: boolean;
+}
+
+export interface SaveData {
+  v: 2;
+  job: JobId;
+  stats: Stats;
+  hp: number;
+  mp: number;
+  history: Record<string, QHistory>;
+  /** 回答した問題数（再回答も数える）。ボス解放の判定に使う */
+  answered: number;
+  correct: number;
+  wrong: number;
+  perGenre: Record<GenreId, { answered: number; correct: number }>;
+  defeated: string[];
+  bossTries: Record<string, number>;
+}
+
+const KEY = 'kankouji-rpg.save.v1'; // v1 から同じキーを使い続け、中身だけ移行する
+const BACKUP_KEY = 'kankouji-rpg.save.v1.backup';
+
+export function newSave(job: JobId): SaveData {
+  const def = JOBS.find((j) => j.id === job)!;
+  const stats: Stats = { atk: BASE_STAT, def: BASE_STAT, mag: BASE_STAT, mdef: BASE_STAT, spd: BASE_STAT };
+  stats[def.best] = BEST_STAT;
+  const perGenre = {} as SaveData['perGenre'];
+  GENRES.forEach((g) => (perGenre[g.id] = { answered: 0, correct: 0 }));
+  return {
+    v: 2,
+    job,
+    stats,
+    hp: maxHp(stats),
+    mp: maxMp(stats),
+    history: {},
+    answered: 0,
+    correct: 0,
+    wrong: 0,
+    perGenre,
+    defeated: [],
+    bossTries: {},
+  };
+}
+
+/** バージョン付きマイグレーション。既存データは捨てずに引き継ぐ */
+export function migrate(raw: unknown): SaveData | null {
+  const d = raw as Record<string, unknown> | null;
+  if (!d || typeof d !== 'object') return null;
+  if (d.v === 2) return d as unknown as SaveData;
+  if (d.v === 1) {
+    const old = d as unknown as {
+      job: JobId;
+      stats: Stats;
+      answered: string[];
+      correct: number;
+      wrong: number;
+      perGenre: SaveData['perGenre'];
+      bossTries: number;
+      bossCleared: boolean;
+    };
+    const history: Record<string, QHistory> = {};
+    // v1 は正誤の内訳を持たないため、回答済みの問題は「加算済み」として扱い、能力値の二重加算を防ぐ
+    (old.answered ?? []).forEach((id) => (history[id] = { n: 1, c: 1, lastOk: true, grown: true }));
+    const s = newSave(old.job);
+    return {
+      ...s,
+      stats: { ...s.stats, ...old.stats },
+      hp: maxHp(old.stats),
+      mp: maxMp(old.stats),
+      history,
+      answered: (old.answered ?? []).length,
+      correct: old.correct ?? 0,
+      wrong: old.wrong ?? 0,
+      perGenre: { ...s.perGenre, ...old.perGenre },
+      defeated: old.bossCleared ? [BOSSES[0].id] : [],
+      bossTries: old.bossTries ? { [BOSSES[0].id]: old.bossTries } : {},
+    };
+  }
+  return null;
+}
+
+let current: SaveData | null = null;
+
+export function getSave(): SaveData {
+  if (!current) throw new Error('no save');
+  return current;
+}
+export function setSave(s: SaveData): void {
+  current = s;
+  persist();
+}
+
+export function persist(): boolean {
+  if (!current) return false;
+  try {
+    localStorage.setItem(KEY, JSON.stringify(current));
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+export function loadSave(): SaveData | null {
+  try {
+    const raw = localStorage.getItem(KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    if (parsed?.v === 1 && !localStorage.getItem(BACKUP_KEY)) localStorage.setItem(BACKUP_KEY, raw);
+    const d = migrate(parsed);
+    if (!d) return null;
+    current = d;
+    if (parsed.v !== 2) persist();
+    return d;
+  } catch {
+    return null;
+  }
+}
+
+export function hasSave(): boolean {
+  try {
+    return !!localStorage.getItem(KEY);
+  } catch {
+    return false;
+  }
+}
+
+export function clearSave(): void {
+  current = null;
+  try {
+    localStorage.removeItem(KEY);
+  } catch {
+    /* ignore */
+  }
+}
+
+// ---------------------------------------------------------------- 進行状況
+/** 次に挑戦するボス(全撃破ならnull) */
+export function nextBoss(s: SaveData) {
+  return BOSSES.find((b) => !s.defeated.includes(b.id)) ?? null;
+}
+export const unlockAt = (order: number) => order * BALANCE.questionsPerBoss;
+export function questionsToBoss(s: SaveData): number {
+  const b = nextBoss(s);
+  return b ? Math.max(0, unlockAt(b.order) - s.answered) : 0;
+}
+export function bossUnlocked(s: SaveData): boolean {
+  const b = nextBoss(s);
+  return !!b && s.answered >= unlockAt(b.order);
+}
+
+// ---------------------------------------------------------------- 出題
+/** そのジャンルに、まだ能力加算できる問題が残っているか */
+export function growthLeft(s: SaveData, g: GenreId): number {
+  return QUESTIONS.filter((q) => q.genre === g && !s.history[q.id]?.grown).length;
+}
+export function wrongList(s: SaveData): Question[] {
+  return QUESTIONS.filter((q) => s.history[q.id] && !s.history[q.id].lastOk);
+}
+
+/** 加算できる問題を優先し、なければ復習として既出問題から出す */
+export function pickQuestion(s: SaveData, g: GenreId, rnd = Math.random): { q: Question; review: boolean } {
+  const all = QUESTIONS.filter((q) => q.genre === g);
+  const fresh = all.filter((q) => !s.history[q.id]?.grown);
+  const pool = fresh.length ? fresh : all;
+  return { q: pool[Math.floor(rnd() * pool.length)], review: fresh.length === 0 };
+}
+
+/** 回答を記録し、能力加算した場合は加算前の値を返す */
+export function recordAnswer(s: SaveData, q: Question, ok: boolean): { grew: boolean; before: number } {
+  const h = (s.history[q.id] ??= { n: 0, c: 0, lastOk: false, grown: false });
+  h.n++;
+  h.lastOk = ok;
+  s.answered++;
+  s.perGenre[q.genre].answered++;
+  const stat = GENRES.find((g) => g.id === q.genre)!.stat;
+  const before = s.stats[stat];
+  let grew = false;
+  if (ok) {
+    h.c++;
+    s.correct++;
+    s.perGenre[q.genre].correct++;
+    if (!h.grown) {
+      h.grown = true;
+      s.stats[stat]++;
+      grew = true;
+      s.hp = maxHp(s.stats);
+      s.mp = maxMp(s.stats);
+    }
+  } else {
+    s.wrong++;
+  }
+  persist();
+  return { grew, before };
+}
