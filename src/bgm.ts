@@ -1,4 +1,4 @@
-﻿// BGM: 画面ごとに1曲を対応させ、ループ再生・クロスフェード・二重再生防止・音量/ON-OFF保存を行う。
+// BGM: 画面ごとに1曲を対応させ、ループ再生・クロスフェード・二重再生防止・音量/ON-OFF保存を行う。
 // MP3は先頭/末尾の無音（エンコーダ遅延）を検出してループ区間から外し、つなぎ目の音切れを防ぐ。
 export type BgmKey = 'title' | 'job' | 'genre' | 'quiz' | 'boss' | 'last';
 
@@ -66,6 +66,8 @@ let unlocked = false;
 let token = 0;
 /** 鳴っている（フェード中を含む）音源の数。通常は1、切り替え中だけ2 */
 let active = 0;
+/** 見張りによる自動復旧の回数（正常なら0のまま） */
+let recoveries = 0;
 
 function ensureCtx(): AudioContext | null {
   if (ctx) return ctx;
@@ -162,7 +164,13 @@ async function start(key: BgmKey) {
   src.connect(g).connect(master);
   src.start(now, t.start);
   active++;
-  current = { key, src, gain: g };
+  const me: Playing = { key, src, gain: g };
+  current = me;
+  // 想定外に止まった場合（デバイス切替・ブラウザの都合など）は、見張りが自動で再開する
+  src.onended = () => {
+    active--;
+    if (current === me) current = null;
+  };
   if (old) fadeOutAndStop(old, FADE_OUT);
   // 残りの曲も先に読み込んでおく（画面遷移時の待ちを減らす）
   (Object.keys(TRACKS) as BgmKey[]).forEach((k) => void load(k));
@@ -220,7 +228,11 @@ export const bgm = {
     save();
   },
   /** テスト・確認用 */
-  debug: () => ({ unlocked, wanted, playing: current?.key ?? null, state: ctx?.state ?? 'none', loaded: [...buffers.entries()].map(([k, v]) => ({ k, start: +v.start.toFixed(3), end: +v.end.toFixed(3), dur: +v.buf.duration.toFixed(3) })), vol: master?.gain.value ?? null, active }),
+  _break: (kind: 'suspend' | 'stop') => {
+    if (kind === 'suspend') void ctx?.suspend();
+    else current?.src.stop();
+  },
+  debug: () => ({ unlocked, wanted, playing: current?.key ?? null, state: ctx?.state ?? 'none', loaded: [...buffers.entries()].map(([k, v]) => ({ k, start: +v.start.toFixed(3), end: +v.end.toFixed(3), dur: +v.buf.duration.toFixed(3) })), vol: master?.gain.value ?? null, active, recoveries }),
 };
 
 // タブが隠れたら止め、戻ったら再開（スマホのバックグラウンド対策）
@@ -229,6 +241,20 @@ document.addEventListener('visibilitychange', () => {
   if (document.hidden) void ctx.suspend();
   else if (unlocked) void ctx.resume();
 });
+
+/** 鳴らすべき状態なのに止まっていたら復旧する（コンテキストの停止・音源の途中終了・音声デバイス切替など） */
+function recover() {
+  if (!unlocked || !settings.bgmOn || !wanted || document.hidden) return;
+  if (ctx && ctx.state !== 'running') void ctx.resume();
+  if (!current && ctx && ctx.state === 'running') {
+    recoveries++;
+    void start(wanted);
+  }
+}
+setInterval(recover, 1500);
+// ブラウザが音声を止めた後でも、次の操作で必ず再開を試みる
+['pointerdown', 'keydown', 'touchend'].forEach((ev) => window.addEventListener(ev, recover, true));
+window.addEventListener('focus', recover);
 
 // 最初のユーザー操作でBGMを解禁（Phaserの外のイベントも拾う）
 const unlockOnce = () => {
