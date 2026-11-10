@@ -1,11 +1,11 @@
-﻿import Phaser from 'phaser';
+import Phaser from 'phaser';
 import { GENRES, GenreId, STAT_CSS, STAT_NAMES } from '../data';
 import { ALL_QUESTIONS, Question, isCorrect } from '../questions';
 import { L } from '../layout';
 import { bgm } from '../bgm';
 import { getSave, mainUnlockAt, nextBoss, pickQuestion, questionsToBoss, recordAnswer, roundInfo, uniqueFirst } from '../state';
 import { sfx } from '../sfx';
-import { Button, GOLD, bg, button, fadeIn, floatText, go, txt, windowBox, wrapJP } from '../ui';
+import { Button, GOLD, bg, button, fadeIn, fitText, floatText, go, txt, windowBox, wrapJP } from '../ui';
 import { ICON } from './common';
 
 const MARKS = ['①', '②', '③', '④'];
@@ -80,7 +80,8 @@ export class QuizScene extends Phaser.Scene {
     const qh = P ? 240 : 170;
     windowBox(this, 24, qy, L.W - 48, qh);
     const tag = this.q.format === 'multiple' ? '【2つ選べ】 ' : '';
-    txt(this, 56, qy + 22, wrapJP(tag + this.q.question, 30, L.W - 112), 30, '#ffffff', { lineSpacing: 10 });
+    const stemT = txt(this, 56, qy + 20, '', 30, '#ffffff', { lineSpacing: 8 });
+    fitText(stemT, tag + this.q.question, 30, L.W - 112, qh - 36, 16);
 
     // 選択肢
     const cy0 = qy + qh + 16;
@@ -182,7 +183,8 @@ export class QuizScene extends Phaser.Scene {
     if (r.grew) this.add.image(lx, ly - 2, ICON[stat]).setOrigin(0, 0).setScale(2);
     const lt = txt(this, lx + (r.grew ? 36 : 0), ly, wrapJP(line, 26, L.W - lx - 60), 26, lcol);
     const shift = lt.height > 40 ? lt.height - 34 : 0;
-    txt(this, 56, (P ? y0 + 124 : y0 + 66) + shift, wrapJP(this.q.explanation, 24, P ? L.W - 112 : 900), 24, '#ffffff', { lineSpacing: 6 });
+    const exT = txt(this, 56, (P ? y0 + 124 : y0 + 66) + shift, '', 24, '#ffffff', { lineSpacing: 6 });
+    fitText(exT, this.q.explanation, 24, P ? L.W - 112 : 900, (P ? 150 : 92) - shift, 14);
 
     const nb = nextBoss(s);
     const unlockedNow = wasFirst && !!nb && uniqueFirst(s) === mainUnlockAt(nb.order);

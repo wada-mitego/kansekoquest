@@ -1,4 +1,4 @@
-﻿// 全クリア率シミュレーション: 5職業 × 正答率3水準(50/70/90%) × 育成3種 の通しプレイ（第1〜第5ボスを順に、各ボス初回挑戦のみ）
+// 全クリア率シミュレーション: 5職業 × 正答率3水準(50/70/90%) × 育成3種 の通しプレイ（第1〜第5ボスを順に、各ボス初回挑戦のみ）
 import fs from 'node:fs';
 import { BOSSES, BossDef, MAIN_STEP } from '../src/config';
 import { BASE_STAT, BEST_STAT, GENRES, JOBS, StatKey, Stats } from '../src/data';
@@ -7,7 +7,7 @@ import * as B from '../src/battle';
 
 export type Alloc = 'even' | 'biased' | 'focus';
 export const ALLOCS: Alloc[] = ['even', 'biased', 'focus'];
-export const ALLOC_NAME: Record<Alloc, string> = { even: '均等育成', biased: '2能力に偏り', focus: '得意に集中' };
+export const ALLOC_NAME: Record<Alloc, string> = { even: '均等育成', biased: '2能力に偏り', focus: '得意に集中(6割)' };
 
 /** 偏り・集中で「得意の次」に伸ばす能力(職業ごとに固定) */
 const SECOND: Record<string, StatKey> = { def: 'mdef', atk: 'spd', mag: 'mdef', spd: 'atk', mdef: 'mag' };
@@ -28,7 +28,11 @@ export function answerOrder(best: StatKey, alloc: Alloc, n: number): StatKey[] {
     else if (alloc === 'biased') {
       const pair = [best, second].filter(open);
       k = pair.length ? pair.sort((a, b) => (used[a] ?? 0) - (used[b] ?? 0))[0] : prio.find(open);
-    } else k = prio.find(open);
+    } else {
+      // 得意に集中: 6割を得意ジャンル、残り4割を他の能力へ均等に（上限に達したら他へ）
+      const others = keys.filter((x) => x !== best && open(x)).sort((a, b) => (used[a] ?? 0) - (used[b] ?? 0));
+      k = out.length % 5 < 3 && open(best) ? best : others[0] ?? prio.find(open);
+    }
     if (!k) break;
     used[k] = (used[k] ?? 0) + 1;
     out.push(k);

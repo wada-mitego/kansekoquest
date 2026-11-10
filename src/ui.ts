@@ -1,4 +1,4 @@
-﻿import Phaser from 'phaser';
+import Phaser from 'phaser';
 import { BgKind, landscapeKey } from './sprites';
 import { L } from './layout';
 import { sfx } from './sfx';
@@ -46,6 +46,18 @@ export function wrapJP(s: string, size: number, maxW: number): string {
     lines.push(line);
   }
   return lines.join('\n');
+}
+
+/** 枠に収まるまで文字サイズを下げて折り返す（長い過去問の選択肢・問題文用）。最小 minSize */
+export function fitText(t: Phaser.GameObjects.Text, label: string, size: number, maxW: number, maxH: number, minSize = 15): void {
+  let s = size;
+  t.setFontSize(s);
+  t.setText(wrapJP(label, s, maxW));
+  while (t.height > maxH && s > minSize) {
+    s -= 1;
+    t.setFontSize(s);
+    t.setText(wrapJP(label, s, maxW));
+  }
 }
 
 /** 黒い面+白い二重枠(参考画像のウィンドウ) */
@@ -128,7 +140,7 @@ export function button(
   const padL = 28 + iconW + (opts.cursor ? 30 : 0);
   const t = txt(scene, left ? padL : w / 2, h / 2, label, size, '#ffffff', { align: left ? 'left' : 'center' });
   t.setOrigin(left ? 0 : 0.5, 0.5);
-  if (opts.wrap) t.setText(wrapJP(label, size, w - padL - 24));
+  if (opts.wrap) fitText(t, label, size, w - padL - 24, h - 14);
   c.add([g, t]);
   let iconImg: Phaser.GameObjects.Image | null = null;
   if (opts.icon) {
@@ -237,7 +249,8 @@ export function button(
       redraw();
     },
     setLabel(s) {
-      t.setText(opts.wrap ? wrapJP(s, size, w - padL - 24) : s);
+      if (opts.wrap) fitText(t, s, size, w - padL - 24, h - 14);
+      else t.setText(s);
       c.setData('label', s);
     },
   };

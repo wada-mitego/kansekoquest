@@ -1,0 +1,4227 @@
+[
+  {
+    "id": "r8a1",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "北緯35度の地点の夏至の日における、終日の直達日射量の最も大きいものとして、適当なものはどれか。ただし、終日快晴とし、日射を遮る要素はないものとする。なお、北緯35度線が通る都市としては、京都市、南房総市等がある。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "南向き鉛直面"
+      },
+      {
+        "id": "b",
+        "text": "東向き鉛直面"
+      },
+      {
+        "id": "c",
+        "text": "北東向き鉛直面"
+      },
+      {
+        "id": "d",
+        "text": "北向き鉛直面"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 東向き鉛直面",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.1（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.1",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a4",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "流体に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ベルヌーイの定理は、流体の持っている運動エネルギー、重力による位置エネルギー及び圧力によるエネルギーの総和が流線に沿って一定に保たれることを示している。"
+      },
+      {
+        "id": "b",
+        "text": "レイノルズ数は、慣性力と粘性力の比で表される無次元数であり、層流と乱流の判定の目安となる。"
+      },
+      {
+        "id": "c",
+        "text": "ポンプ及び配管系に外部から強制的な力が与えられていないにもかかわらず、流体の流量と圧力が周期的に変動する現象を、ウォーターハンマーという。"
+      },
+      {
+        "id": "d",
+        "text": "流動する液体が局部的にその温度での飽和蒸気圧以下となり気泡が発生する現象を、キャビテーションという。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) ポンプ及び配管系に外部から強制的な力が与えられていないにもかかわらず、流体の流量と圧力が周期的に変動する現象を、ウォーターハンマーという。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.4（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.4",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a5",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "熱に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "カルノーサイクルの熱効率は、高温熱源と低温熱源の温度比の二乗に比例する。"
+      },
+      {
+        "id": "b",
+        "text": "断熱状態において不可逆変化が生じると、エントロピーは増加する。"
+      },
+      {
+        "id": "c",
+        "text": "異なる2種類の金属線の両端同士を接合して作った回路において、直流電流を流すと、一方の接合点の温度が下がり、他方の接合点の温度が上がる。"
+      },
+      {
+        "id": "d",
+        "text": "気体では、定圧比熱は定容比熱より大きい。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) カルノーサイクルの熱効率は、高温熱源と低温熱源の温度比の二乗に比例する。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.5（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.5",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a9",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "冬季の外壁に接する室における室内側壁面の表面結露に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "外壁2面に接する隅の部分は、一般的に、中央部より結露を生じやすい。"
+      },
+      {
+        "id": "b",
+        "text": "天井から温風を吹出す暖房をしている室内では、一般的に、天井付近に比べて、床付近の方が結露を生じやすい。"
+      },
+      {
+        "id": "c",
+        "text": "室内空気の流動が少なくなると、結露を生じやすくなる。"
+      },
+      {
+        "id": "d",
+        "text": "外壁に断熱材を設けると、熱通過率が小さくなるため、結露を生じやすくなる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 外壁に断熱材を設けると、熱通過率が小さくなるため、結露を生じやすくなる。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.9（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.9",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a11",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "低圧三相誘導電動機の保護に用いられる保護継電器（2 Eリレー）の保護目的として、適当なものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "過負荷保護及び欠相保護"
+      },
+      {
+        "id": "b",
+        "text": "過負荷保護及び短絡保護"
+      },
+      {
+        "id": "c",
+        "text": "欠相保護及び反相保護"
+      },
+      {
+        "id": "d",
+        "text": "短絡保護及び反相保護"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 過負荷保護及び欠相保護",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.11（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.11",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a12",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "工事後に点検できなくなる隠ぺい場所に低圧屋内配線を施設する工事として、適当でないものはどれか。ただし、事務所ビル内の乾燥した場所（湿気の多い場所又は水気のある場所ではない。）に施設するものとする。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "合成樹脂管（PF管）工事"
+      },
+      {
+        "id": "b",
+        "text": "ライティングダクト工事"
+      },
+      {
+        "id": "c",
+        "text": "ケーブル工事"
+      },
+      {
+        "id": "d",
+        "text": "金属可とう電線管工事"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) ライティングダクト工事",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.12（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.12",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a13",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "鉄筋コンクリート造の建築物に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "耐震壁は、地震に対して有効であり、バランスよく配置しなければならない。"
+      },
+      {
+        "id": "b",
+        "text": "鉄筋とコンクリートは、常温では線膨張係数がほぼ等しく、付着性がよい。"
+      },
+      {
+        "id": "c",
+        "text": "ラーメン構造は、柱と梁の接合部をピン接合とした構造形式である。"
+      },
+      {
+        "id": "d",
+        "text": "構造体は、建築物に作用する荷重及び外力に対して安全な構造とする。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) ラーメン構造は、柱と梁の接合部をピン接合とした構造形式である。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.13（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.13",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a15",
+    "genre": "kucho",
+    "format": "single",
+    "question": "省エネルギーを目的とする空調計画に関する記述として、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "予冷予熱時に、最大限の外気を取り入れるように制御する。"
+      },
+      {
+        "id": "b",
+        "text": "空調対象室のCO 2濃度を計測し、外気取入れ量を制御する。"
+      },
+      {
+        "id": "c",
+        "text": "熱源機器を適切な容量・台数に分割し台数制御を行う。"
+      },
+      {
+        "id": "d",
+        "text": "冷温水の大温度差空調システムを採用し、ポンプの搬送動力を削減する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 予冷予熱時に、最大限の外気を取り入れるように制御する。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.15（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.15",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a16",
+    "genre": "kucho",
+    "format": "single",
+    "question": "空気調和方式に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "定風量単一ダクト方式は、各空調対象室間で時刻別負荷変動パターンが異なる場合、各室内温度のアンバランスが生じやすい。"
+      },
+      {
+        "id": "b",
+        "text": "ペリメーター空気処理方式は、コールドドラフトの防止に有効である。"
+      },
+      {
+        "id": "c",
+        "text": "変風量単一ダクト方式に用いる変風量（VAV）ユニットは、試運転時の風量調整が行いやすい。"
+      },
+      {
+        "id": "d",
+        "text": "床吹出し方式は、暖房運転時の居住域における垂直方向の温度差が大きい。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 床吹出し方式は、暖房運転時の居住域における垂直方向の温度差が大きい。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.16（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.16",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a19",
+    "genre": "kucho",
+    "format": "single",
+    "question": "熱負荷に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "暖房負荷計算では、一般的に、土間床及び地中壁からの熱負荷を見込む。"
+      },
+      {
+        "id": "b",
+        "text": "人体からの発生熱量は、室内温度が変わっても全発熱量はほとんど変わらないが、室温が上がるほど顕熱量が小さくなり、潜熱量が大きくなる。"
+      },
+      {
+        "id": "c",
+        "text": "冷房負荷計算では、窓ガラスを通過する熱負荷は、太陽日射熱のみを見込む。"
+      },
+      {
+        "id": "d",
+        "text": "日射及び夜間放射の影響を受ける外壁の熱負荷計算は、一般的に、実効温度差を用いる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 冷房負荷計算では、窓ガラスを通過する熱負荷は、太陽日射熱のみを見込む。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.19（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.19",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a20",
+    "genre": "kucho",
+    "format": "single",
+    "question": "地域冷暖房に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "地域冷暖房の熱需用者側の建物は、熱源機器の設置が不要なため床面積の利用率が高くなる。"
+      },
+      {
+        "id": "b",
+        "text": "地域冷暖房は、発電設備を併設することにより、これの排熱を利用することができる。"
+      },
+      {
+        "id": "c",
+        "text": "地域冷暖房とは、1箇所又は数箇所の熱源プラントから、地域内の多種・多数の施設等に、蒸気、温水あるいは冷水等の熱媒を、配管を通じて供給するものである。"
+      },
+      {
+        "id": "d",
+        "text": "地域冷暖房を計画する際は、冷暖房の使用時間帯が同じような需要者を広く求める必要がある。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 地域冷暖房を計画する際は、冷暖房の使用時間帯が同じような需要者を広く求める必要がある。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.20（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.20",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a23",
+    "genre": "kucho",
+    "format": "single",
+    "question": "換気に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "密閉式燃焼器具のみを設けた室には、火気を使用する室としての換気設備を設けなくてよい。"
+      },
+      {
+        "id": "b",
+        "text": "誘引誘導換気システムは、一般的に、地下駐車場等の極めて広い範囲を第一種機械換気するときに使用される。"
+      },
+      {
+        "id": "c",
+        "text": "ボイラー室の換気は、室内発熱を除去するため、第三種機械換気方式とする。"
+      },
+      {
+        "id": "d",
+        "text": "開放式燃焼器具のフードにⅡ型フードを用いる場合、火源からフード下端までの高さは1 m以内としなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) ボイラー室の換気は、室内発熱を除去するため、第三種機械換気方式とする。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.23（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.23",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a25",
+    "genre": "kucho",
+    "format": "single",
+    "question": "機械排煙設備に関する記述のうち、適当でないものはどれか。ただし、本設備は「建築基準法」の避難安全検証法（区画、階、全館）及び特殊な構造によらないものとする。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "排煙口は、防煙区画の各部分から水平距離で50 m以下となるように設ける。"
+      },
+      {
+        "id": "b",
+        "text": "排煙口は、避難方向と煙の流れが反対になるように設ける。"
+      },
+      {
+        "id": "c",
+        "text": "排煙口は、不燃材料とする。"
+      },
+      {
+        "id": "d",
+        "text": "排煙口の手動開放装置を壁に設ける場合、手で操作する部分の高さは、床面から80 cm以上1.5 m以下の高さとする。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 排煙口は、防煙区画の各部分から水平距離で50 m以下となるように設ける。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.25（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.25",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a26",
+    "genre": "eisei",
+    "format": "single",
+    "question": "上水道の浄水施設に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "凝集池の混和池では、フロックを大きく成長させるため、かく拌しない。"
+      },
+      {
+        "id": "b",
+        "text": "沈殿池は、フロックを沈殿除去し、ろ過池の負荷を軽くする池である。"
+      },
+      {
+        "id": "c",
+        "text": "ろ過池は、原水をろ過する速度によって、緩速ろ過池、急速ろ過池がある。"
+      },
+      {
+        "id": "d",
+        "text": "高度浄水処理には、活性炭処理、オゾン処理、生物処理等が用いられる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 凝集池の混和池では、フロックを大きく成長させるため、かく拌しない。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.26（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.26",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a27",
+    "genre": "eisei",
+    "format": "single",
+    "question": "下水道に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "分流式の汚水管きょは、合流式の管きょに比べ小口径のため、管きょの勾配が急になり埋設が深くなる場合がある。"
+      },
+      {
+        "id": "b",
+        "text": "管きょは、固形物の停滞を防ぐため、流量が大きくなる下流ほど勾配が急になるようにする。"
+      },
+      {
+        "id": "c",
+        "text": "硬質塩化ビニル管等の可とう性がある管きょの基礎は、自由支承の砂又は砕石基礎としてよい。"
+      },
+      {
+        "id": "d",
+        "text": "分流式の下水道において、管きょ内の計画下水量に対する最小流速は、汚水管きょに比べて雨水管きょの方が大きい。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 管きょは、固形物の停滞を防ぐため、流量が大きくなる下流ほど勾配が急になるようにする。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.27（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.27",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a28",
+    "genre": "eisei",
+    "format": "single",
+    "question": "給水設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "負荷流量の算定に使用される器具の同時使用率は、同一の設置器具数が多くなるほど低くなる。"
+      },
+      {
+        "id": "b",
+        "text": "水道用直結加圧形ポンプユニットの給水量は、時間平均予想給水量とする。"
+      },
+      {
+        "id": "c",
+        "text": "受水タンクの有効容量は、一般的に、1日使用水量の半分程度とする。"
+      },
+      {
+        "id": "d",
+        "text": "逆サイホン作用は、水受け容器中に吐出された水等が、給水管内に生じた負圧により管内に逆流することである。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 水道用直結加圧形ポンプユニットの給水量は、時間平均予想給水量とする。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.28（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.28",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a29",
+    "genre": "eisei",
+    "format": "single",
+    "question": "給水設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "大便器の器具給水負荷単位は、ロータンク方式より洗浄弁方式の方が小さい。"
+      },
+      {
+        "id": "b",
+        "text": "揚水管の横引き配管が長くなる場合、水柱分離が生じないように下層階で横引きをする。"
+      },
+      {
+        "id": "c",
+        "text": "受水タンクにおいて、地震時に水面が波動を起こし、水の自由表面がタンクの天井面や側面に衝突する現象をスロッシングという。"
+      },
+      {
+        "id": "d",
+        "text": "飲料用給水配管と空調配管を弁を介して接続する場合、クロスコネクションに該当する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 大便器の器具給水負荷単位は、ロータンク方式より洗浄弁方式の方が小さい。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.29（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.29",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a30",
+    "genre": "eisei",
+    "format": "single",
+    "question": "中央式給湯設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "下向き循環方式の場合、配管の空気抜きを考慮して、給湯管、返湯管とも先下り勾配とする。"
+      },
+      {
+        "id": "b",
+        "text": "密閉式膨張タンクの給湯系統への接続位置は、給水管が貯湯タンクへ接続される直近とする。"
+      },
+      {
+        "id": "c",
+        "text": "給湯用循環ポンプの循環湯量は、循環配管路の熱損失と許容温度降下等により決定する。"
+      },
+      {
+        "id": "d",
+        "text": "給湯用循環ポンプの揚程は、貯湯タンクと最高所の給湯栓との高低差により決定する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 給湯用循環ポンプの揚程は、貯湯タンクと最高所の給湯栓との高低差により決定する。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.30（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.30",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a31",
+    "genre": "eisei",
+    "format": "single",
+    "question": "排水設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "排水ポンプの容量は、排水槽への排水流入量がほぼ一定の場合、毎時平均排水流入量の1.2～1.5倍程度とする。"
+      },
+      {
+        "id": "b",
+        "text": "排水ポンプは、2台一組とし、平常時は2台交互運転、非常時は2台同時運転ができるようにすることが望ましい。"
+      },
+      {
+        "id": "c",
+        "text": "汚物用水中モーターポンプは、53 mmの球形固形物を排出できるものとする。"
+      },
+      {
+        "id": "d",
+        "text": "雑排水用水中モーターポンプは、地下からの湧水、空調機の排水等の固形物をほとんど含まない水を排出するためのポンプである。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 雑排水用水中モーターポンプは、地下からの湧水、空調機の排水等の固形物をほとんど含まない水を排出するためのポンプである。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.31（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.31",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a33",
+    "genre": "eisei",
+    "format": "single",
+    "question": "排水設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "自己サイホン作用とは、トラップのあふれ縁に毛髪や糸くず等が垂れ下がっていると、徐々にトラップ封水が吸い出されていく現象である。"
+      },
+      {
+        "id": "b",
+        "text": "排水槽は、定期的に清掃する必要があるため、保守点検用のマンホールを設ける。"
+      },
+      {
+        "id": "c",
+        "text": "器具排水口からトラップのあふれ面までの垂直距離は、600 mmを超えないようにする。"
+      },
+      {
+        "id": "d",
+        "text": "排水槽の吸込ピットは、排水用水中モーターポンプ吸込部の周囲及び下部に200 mm以上の間隔を持たせる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 自己サイホン作用とは、トラップのあふれ縁に毛髪や糸くず等が垂れ下がっていると、徐々にトラップ封水が吸い出されていく現象である。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.33（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.33",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a34",
+    "genre": "eisei",
+    "format": "single",
+    "question": "スプリンクラー設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "開放型スプリンクラーヘッドを用いたスプリンクラー設備は、火災感知器等と連動して作動するか、又は手動で一斉開放弁を開いて放水する。"
+      },
+      {
+        "id": "b",
+        "text": "閉鎖型スプリンクラーヘッドを用いた予作動式スプリンクラー設備は、流水検知装置の二次側配管内を加圧空気で満たしている。"
+      },
+      {
+        "id": "c",
+        "text": "閉鎖型スプリンクラーヘッドを用いた乾式スプリンクラー設備は、冬期に凍結の恐れがある部分等に用いられる。"
+      },
+      {
+        "id": "d",
+        "text": "閉鎖型スプリンクラーヘッドを用いた湿式スプリンクラー設備は、ヘッドと火災感知器等の両方が作動しない限り放水しない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 閉鎖型スプリンクラーヘッドを用いた湿式スプリンクラー設備は、ヘッドと火災感知器等の両方が作動しない限り放水しない。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.34（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.34",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a37",
+    "genre": "eisei",
+    "format": "single",
+    "question": "浄化槽に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "合併処理の二次処理工程では、微生物を利用した生物学的処理方式が採用され、生物膜法と活性汚泥法に大別される。"
+      },
+      {
+        "id": "b",
+        "text": "生物膜法は、接触材の表面に付着した生物膜により、浄化する方式である。"
+      },
+      {
+        "id": "c",
+        "text": "浄化槽の設置は風通しの良い場所とし、積雪寒冷地を除き、車庫、建築物内への設置は避ける。"
+      },
+      {
+        "id": "d",
+        "text": "生物膜法には、長時間ばっ気方式と回転板接触方式がある。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 生物膜法には、長時間ばっ気方式と回転板接触方式がある。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.37（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.37",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a38",
+    "genre": "eisei",
+    "format": "single",
+    "question": "空気調和機に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "デシカント空気調和機は、建物からの排熱を導入外気と熱交換させる全熱交換器を機内に備えたものである。"
+      },
+      {
+        "id": "b",
+        "text": "ユニット形空気調和機の冷温水兼用コイルは、一般的に、コイル面通過風速を2.5 m/s以下として選定する。"
+      },
+      {
+        "id": "c",
+        "text": "大温度差送風方式の空気調和機は、冷房時の送風温度差を大きくとることで送風量を減らし、送風搬送動力を削減するものである。"
+      },
+      {
+        "id": "d",
+        "text": "潜熱・顕熱分離形のユニット形空気調和機は、外気負荷を処理するコイルと室内負荷を処理するコイルを機内に備えたものである。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) デシカント空気調和機は、建物からの排熱を導入外気と熱交換させる全熱交換器を機内に備えたものである。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.38（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.38",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a39",
+    "genre": "eisei",
+    "format": "single",
+    "question": "冷却塔に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "密閉形冷却塔は、開放形冷却塔に比べて熱交換器等の空気抵抗が大きくなるため、送風機動力が大きくなる。"
+      },
+      {
+        "id": "b",
+        "text": "外気温度が低い冬期に冷却塔を運転する場合、白煙防止対策として、冷却塔の吹出し空気を加熱してから大気に放出する方法等がある。"
+      },
+      {
+        "id": "c",
+        "text": "冷却水のスケールは、補給水中のカルシウム等の硬度成分が濃縮されて塩類が析出したもので、連続的なブロー等により、スケール障害を抑制する。"
+      },
+      {
+        "id": "d",
+        "text": "レンジとは、冷却塔出口空気と入口空気の温度差をいう。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) レンジとは、冷却塔出口空気と入口空気の温度差をいう。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.39（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.39",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a40",
+    "genre": "eisei",
+    "format": "single",
+    "question": "保温及び保冷に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ロックウール保温材のブランケットは、密度により1号と2号に区分される。"
+      },
+      {
+        "id": "b",
+        "text": "ポリスチレンフォーム保温材は、主に防露や保冷用として使われる。"
+      },
+      {
+        "id": "c",
+        "text": "人造鉱物繊維保温材には、ロックウール保温材とグラスウール保温材があり、ロックウール保温材の方が使用温度の上限が低い。"
+      },
+      {
+        "id": "d",
+        "text": "ポリスチレンフォーム保温材は、独立気泡体を有しており、吸水・吸湿がほとんどないので、水分による断熱性能の低下が小さい。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 人造鉱物繊維保温材には、ロックウール保温材とグラスウール保温材があり、ロックウール保温材の方が使用温度の上限が低い。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.40（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.40",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a41",
+    "genre": "eisei",
+    "format": "single",
+    "question": "配管材料及び配管附属品に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "水道用亜鉛めっき鋼管は、配管用炭素鋼鋼管の白管に比べて亜鉛の付着量が多い。"
+      },
+      {
+        "id": "b",
+        "text": "水道用硬質塩化ビニルライニング鋼管の使用に適した流体の温度は、60℃以下である。"
+      },
+      {
+        "id": "c",
+        "text": "配管用炭素鋼鋼管の最高使用圧力は、1.0 MPa程度である。"
+      },
+      {
+        "id": "d",
+        "text": "脱亜鉛腐食対策を必要とする青銅弁の弁体及び弁棒は、耐脱亜鉛黄銅材料とする。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 水道用硬質塩化ビニルライニング鋼管の使用に適した流体の温度は、60℃以下である。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.41（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.41",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a42",
+    "genre": "eisei",
+    "format": "single",
+    "question": "ダクト及びダクト附属品に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "長方形ダクトのかどの継目の構造には、ピッツバーグはぜ又はボタンパンチスナップはぜを使用する。"
+      },
+      {
+        "id": "b",
+        "text": "厨房用排気フードにグリス除去装置として使用するグリスエクストラクターは、除去した油脂分等を自動的に洗浄できる機能を持っている。"
+      },
+      {
+        "id": "c",
+        "text": "低圧ダクトは、常用圧力において正圧、負圧ともに500 Pa以内で使用する。"
+      },
+      {
+        "id": "d",
+        "text": "風量調節ダンパーの風量調節性能は、対向翼ダンパーよりも平行翼ダンパーの方が優れている。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 風量調節ダンパーの風量調節性能は、対向翼ダンパーよりも平行翼ダンパーの方が優れている。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.42（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.42",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a43",
+    "genre": "hoki",
+    "format": "single",
+    "question": "「公共工事標準請負契約約款」に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "発注者は、完成通知を受けたときは、通知を受けた日から14日以内に完成検査を完了し、検査結果を受注者に通知しなければならない。"
+      },
+      {
+        "id": "b",
+        "text": "発注者は、引渡し前においても、工事目的物の全部又は一部を受注者の承諾を得て使用することができる。"
+      },
+      {
+        "id": "c",
+        "text": "設計図書の表示が明確でない場合は、監督員に通知して、発注者による確認を請求しなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "発注者は、完成検査合格後、受注者から請負代金の支払い請求があったときは、請求を受けた日から60日以内に請負代金を支払わなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 発注者は、完成検査合格後、受注者から請負代金の支払い請求があったときは、請求を受けた日から60日以内に請負代金を支払わなければならない。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.43（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.43",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8a44",
+    "genre": "eisei",
+    "format": "single",
+    "question": "設計図書に記載する「配管材料」に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "銅管のＬタイプは、Ｍタイプより管の肉厚が大きい。"
+      },
+      {
+        "id": "b",
+        "text": "水道用硬質ポリ塩化ビニル管のVPとHIVPでは、HIVPの方が管の肉厚が大きい。"
+      },
+      {
+        "id": "c",
+        "text": "圧力配管用炭素鋼鋼管は、スケジュール番号の大きい方が管の肉厚が大きい。"
+      },
+      {
+        "id": "d",
+        "text": "水道用硬質塩化ビニルライニング鋼管の原管は、排水用硬質塩化ビニルライニング鋼管の原管より管の肉厚が大きい。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 水道用硬質ポリ塩化ビニル管のVPとHIVPでは、HIVPの方が管の肉厚が大きい。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題A No.44（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.44",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiA.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b4",
+    "genre": "kanri",
+    "format": "single",
+    "question": "建設工事における安全管理に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ハインリッヒの法則では、1件の重大災害の背後には29件の軽度の事故、さらに300件のヒヤリ・ハットがあるといわれている。"
+      },
+      {
+        "id": "b",
+        "text": "工事現場で行う安全管理活動は、その現場の特性に応じた様々な内容の管理を行う必要があり、マンネリ化せず作業者の主体性を引き出すよう工夫することが大切である。"
+      },
+      {
+        "id": "c",
+        "text": "災害の規模及び程度を示す強度率とは、延べ実労働時間1,000時間当たりの労働災害による労働損失日数である。"
+      },
+      {
+        "id": "d",
+        "text": "ヒューマンエラーとは、手間や労力、時間やコストを省くことを優先し、労働者本人又は関係者の安全を阻害する可能性のある行動を意図的に行う行為をいう。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) ヒューマンエラーとは、手間や労力、時間やコストを省くことを優先し、労働者本人又は関係者の安全を阻害する可能性のある行動を意図的に行う行為をいう。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.4（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.4",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b6",
+    "genre": "kanri",
+    "format": "single",
+    "question": "配管及び配管附属品の施工に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "蒸気管の横走り管を下方より支持する場合には、ローラ金物等を使用する。"
+      },
+      {
+        "id": "b",
+        "text": "冷温水配管の主管から枝管を分岐する場合、エルボを3個使用して、管の伸縮を吸収できるようにする。"
+      },
+      {
+        "id": "c",
+        "text": "冷媒用銅管をろう付けする場合、配管内に不活性ガスを流し、酸化物の生成を抑えながら行う。"
+      },
+      {
+        "id": "d",
+        "text": "配管の固定支持は、躯体に緊結された固定台等に、Ｕボルトを使用して堅固に締め付ける。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 配管の固定支持は、躯体に緊結された固定台等に、Ｕボルトを使用して堅固に締め付ける。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.6（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.6",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b7",
+    "genre": "kanri",
+    "format": "single",
+    "question": "ダクト及びダクト附属品の施工に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "共板フランジ工法ダクトのフランジは、ダクト本体を成形加工してフランジにする。"
+      },
+      {
+        "id": "b",
+        "text": "シーリングディフューザーは、最小拡散半径が重なるように配置する。"
+      },
+      {
+        "id": "c",
+        "text": "共板フランジ工法ダクトの押さえ金具の取り付け位置は、ダクト端部から押さえ金具までの距離を150 mm以内、押さえ金具間の距離を200 mm以内とする。"
+      },
+      {
+        "id": "d",
+        "text": "消音エルボを使用した給気ダクトに風量調整ダンパーを取り付ける場合、消音エルボの上流側とする。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) シーリングディフューザーは、最小拡散半径が重なるように配置する。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.7（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.7",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b8",
+    "genre": "kanri",
+    "format": "single",
+    "question": "保温、保冷に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "機械室内の露出の冷温水管にグラスウール保温材で保温する場合、保温筒、ポリエチレンフィルム、原紙、鉄線、アルミガラスクロスの順に施工する。"
+      },
+      {
+        "id": "b",
+        "text": "ステンレス鋼板製貯湯タンク（SUS 444製を除く。）は、エポキシ系塗装により保温材と絶縁する。"
+      },
+      {
+        "id": "c",
+        "text": "絶縁継手回り（絶縁フランジを含む。）は、金属製のラッキングを行ってはならない。"
+      },
+      {
+        "id": "d",
+        "text": "蒸気管が壁、床等を貫通する場合は、貫通部分及びその面から25 mm程度は保温被覆は行わない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 機械室内の露出の冷温水管にグラスウール保温材で保温する場合、保温筒、ポリエチレンフィルム、原紙、鉄線、アルミガラスクロスの順に施工する。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.8（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.8",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b9",
+    "genre": "kanri",
+    "format": "single",
+    "question": "機器類の防振に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "気泡浴槽では、ジェット水流による乱流や気泡によるキャビテーション等により、大きな振動が発生することがあるので、防振施工が必要である。"
+      },
+      {
+        "id": "b",
+        "text": "共通架台に複数個の回転機器を設置する場合の防振は、一番高い回転数に合わせて設計する必要がある。"
+      },
+      {
+        "id": "c",
+        "text": "遠心冷凍機は、高回転数で加振力が比較的小さいため、地下の機械室等では、一般的に、防振ゴムパッドが用いられる。"
+      },
+      {
+        "id": "d",
+        "text": "配管・ダクトの吊り金物は、振動による二次騒音の原因となるおそれがあるので、必要により防振を考慮する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 共通架台に複数個の回転機器を設置する場合の防振は、一番高い回転数に合わせて設計する必要がある。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.9（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.9",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b10",
+    "genre": "hoki",
+    "format": "single",
+    "question": "建設工事における安全管理体制に関する記述のうち「労働安全衛生法」上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "統括安全衛生責任者が統括管理しなければならない事項には、作業間の連絡及び調整がある。"
+      },
+      {
+        "id": "b",
+        "text": "特定元方事業者は、選任した元方安全衛生管理者に、統括安全衛生責任者が統括管理すべき事項のうち技術的事項を管理させなければならない。"
+      },
+      {
+        "id": "c",
+        "text": "特定元方事業者は、下請けも含めた作業場の労働者が、50人以上となる場合は、総括安全衛生管理者を選任しなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "総括安全衛生管理者の選任は、総括安全衛生管理者を選任すべき事由が発生した日から14日以内に行わなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 特定元方事業者は、下請けも含めた作業場の労働者が、50人以上となる場合は、総括安全衛生管理者を選任しなければならない。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.10（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.10",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b11",
+    "genre": "hoki",
+    "format": "single",
+    "question": "建設工事における安全衛生管理に関する記述のうち、「労働安全衛生法」上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "事業者は、機械間又はこれと他の設備との間に設ける通路については、幅80 cm以上のものとしなければならない。"
+      },
+      {
+        "id": "b",
+        "text": "事業者は、架設通路の勾配は、40度以下としなければならない。ただし、階段を設けたもの又は高さが2 m未満で丈夫な手掛を設けたものはこの限りではない。"
+      },
+      {
+        "id": "c",
+        "text": "事業者は、3 m以上の高所から物体を投下するときは、適当な投下設備を設け、監視人を置く等労働者の危険を防止するための措置を講じなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "事業者は、架設通路に使用する高さ8 m以上の登り桟橋には、7 m以内ごとに踊場を設けなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 事業者は、架設通路の勾配は、40度以下としなければならない。ただし、階段を設けたもの又は高さが2 m未満で丈夫な手掛を設けたものはこの限りではない。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.11（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.11",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b12",
+    "genre": "hoki",
+    "format": "single",
+    "question": "次の業務のうち、満18歳に満たない者を就かせてはならない業務として、「労働基準法」上、定められていないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "最大積載荷重が1 tの人荷共用のエレベーターの運転の業務"
+      },
+      {
+        "id": "b",
+        "text": "クレーンの運転の業務"
+      },
+      {
+        "id": "c",
+        "text": "動力により駆動される土木建築用機械の運転の業務"
+      },
+      {
+        "id": "d",
+        "text": "深さが5 m以上の地穴における業務"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 最大積載荷重が1 tの人荷共用のエレベーターの運転の業務",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.12（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.12",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b16",
+    "genre": "hoki",
+    "format": "single",
+    "question": "元請負人の義務に関する記述のうち、「建設業法」上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "元請負人は、前払金の支払を受けたときは、下請負人に対して、資材の購入、労働者の募集その他建設工事の着手に必要な費用を前払金として支払うよう適切な配慮をしなければならない。"
+      },
+      {
+        "id": "b",
+        "text": "元請負人は、その請け負った建設工事を施工するために必要な工程の細目、作業方法その他元請負人において定めるべき事項を定めようとするときは、あらかじめ、下請負人の意見をきかなければならない。"
+      },
+      {
+        "id": "c",
+        "text": "元請負人は、下請負人からその請け負った建設工事が完成した旨の通知を受けたときは、当該通知を受けた日から20日以内で、かつ、できる限り短い期間内に、その完成を確認するための検査を完了しなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "元請負人は、下請負人の請け負った建設工事について、検査によって建設工事の完成を確認した後、下請負人が申し出たときは、申し出の日から10日以内に、当該建設工事の目的物の引渡しを受けなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 元請負人は、下請負人の請け負った建設工事について、検査によって建設工事の完成を確認した後、下請負人が申し出たときは、申し出の日から10日以内に、当該建設工事の目的物の引渡しを受けなければならない。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.16（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.16",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b17",
+    "genre": "hoki",
+    "format": "single",
+    "question": "スプリンクラー設備に関する記述のうち、「消防法」上、誤っているものはどれか。ただし、特定施設水道連結型スプリンクラー設備は除く。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "予作動式は、スプリンクラーヘッドが開放した場合に1分以内に当該スプリンクラーヘッドから放水できるものとする。"
+      },
+      {
+        "id": "b",
+        "text": "加圧送水装置には、スプリンクラーヘッドにおける放水圧力が1.0 MPaを超えないための措置を講じる。"
+      },
+      {
+        "id": "c",
+        "text": "スプリンクラーヘッドが開放型の場合、配管の末端には末端試験弁を設ける。"
+      },
+      {
+        "id": "d",
+        "text": "消防ポンプ自動車が容易に接近することのできる位置に、双口形の送水口を設ける。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) スプリンクラーヘッドが開放型の場合、配管の末端には末端試験弁を設ける。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.17（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.17",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b18",
+    "genre": "hoki",
+    "format": "single",
+    "question": "スプリンクラー設備に関する記述のうち、「消防法」上、誤っているものはどれか。ただし、特定施設水道連結型スプリンクラー設備は除く。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "補助散水栓を設ける場合、原則として、防火対象物の階ごとに、その階の未警戒となる各部分からホース接続口までの水平距離が15 m以下となるように設けなければならない。"
+      },
+      {
+        "id": "b",
+        "text": "送水口の結合金具は、簡易着脱式のものとする。"
+      },
+      {
+        "id": "c",
+        "text": "非常電源を附置する。"
+      },
+      {
+        "id": "d",
+        "text": "補助散水栓を設ける場合、消火栓のホースは保形ホースとする。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 送水口の結合金具は、簡易着脱式のものとする。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.18（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.18",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b20",
+    "genre": "hoki",
+    "format": "single",
+    "question": "「フロン類の使用の合理化及び管理の適正化に関する法律」上、第一種フロン類充塡回収業者が行う第一種特定製品へのフロン類の充塡に関する記述として、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "充塡を行う前に、当該製品について、当該製品の管理者が保存する点検及び整備に係る記録簿を確認しなければならない。"
+      },
+      {
+        "id": "b",
+        "text": "充塡を行う前に、当該製品に冷媒として充塡されているフロン類の漏えいの有無並びに漏えいを確認した場合にあっては、当該漏えいに係る点検及び当該漏えいを防止するために必要な措置の実施の有無を確認しなければならない。"
+      },
+      {
+        "id": "c",
+        "text": "現に充塡されている冷媒とは異なるものを当該製品に冷媒として充塡する場合は、充塡後に、当該製品の管理者に、異なるものを充塡したことを報告しなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "必要以上に充塡を行うことその他の不適切な充塡により、当該製品の使用に際して、フロン類が大気中に放出されるおそれがないよう必要な措置を講じなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 現に充塡されている冷媒とは異なるものを当該製品に冷媒として充塡する場合は、充塡後に、当該製品の管理者に、異なるものを充塡したことを報告しなければならない。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.20（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.20",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b21",
+    "genre": "hoki",
+    "format": "single",
+    "question": "産業廃棄物に関する記述のうち、「廃棄物の処理及び清掃に関する法律」上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "建設工事に伴い生ずる産業廃棄物の処理責任を負う排出事業者は、実際の工事の施工は下請業者が行っている場合であっても、発注者から直接建設工事を請け負った元請業者である。"
+      },
+      {
+        "id": "b",
+        "text": "事業活動で使用された灯油を廃棄物として処理するときは、特別管理産業廃棄物として処理しなければならない。"
+      },
+      {
+        "id": "c",
+        "text": "専ら再生利用の目的となる産業廃棄物のみの収集若しくは運搬又は処分を業として行う者に当該産業廃棄物のみの運搬又は処分を委託する場合は、産業廃棄物管理票の交付を要しない。"
+      },
+      {
+        "id": "d",
+        "text": "事業者が自らその産業廃棄物を産業廃棄物処理施設へ運搬する場合においても、産業廃棄物運搬の業の許可を受けなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 事業者が自らその産業廃棄物を産業廃棄物処理施設へ運搬する場合においても、産業廃棄物運搬の業の許可を受けなければならない。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.21（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.21",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b22",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "公共工事における施工計画等に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "仮設、施工方法等その他工事目的物を完成するために必要な一切の手段は、特別の定めがない場合、受注者がその責任において定める。"
+      },
+      {
+        "id": "b",
+        "text": "工事原価とは、純工事費と現場管理費を合わせた費用のことであり、現場従業員の給与等の現場経費は含まない。"
+      },
+      {
+        "id": "c",
+        "text": "総合試運転調整では、各機器単体の試運転を行うとともに、配管系、ダクト系に異常がないことを確認した後、システム全体の調整を行う。"
+      },
+      {
+        "id": "d",
+        "text": "工種別施工計画書は、受注者の責において作成されるものであるため、監督員に提出する必要はない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b",
+      "d"
+    ],
+    "explanation": "公式の正答肢: (2) 工事原価とは、純工事費と現場管理費を合わせた費用のことであり、現場従業員の給与等の現場経費は含まない。 ／ (4) 工種別施工計画書は、受注者の責において作成されるものであるため、監督員に提出する必要はない。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.22（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.22",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b23",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "工程管理に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ネットワーク工程表において、クリティカルパスは、最早開始時刻と最遅完了時刻の等しいイベントを通る。"
+      },
+      {
+        "id": "b",
+        "text": "ネットワーク工程表において、後続する作業の最早開始時刻に影響を及ぼすことなく使用できる余裕時間をフリーフロートという。"
+      },
+      {
+        "id": "c",
+        "text": "ネットワーク工程表で全体工期の短縮を検討する場合、当初のクリティカルパス上の作業についてのみを検討すればよい。"
+      },
+      {
+        "id": "d",
+        "text": "施工速度を速めると、直接費（労務費、材料費、仮設費等）と間接費（管理費、共通仮設費等）は、ともに増加する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c",
+      "d"
+    ],
+    "explanation": "公式の正答肢: (3) ネットワーク工程表で全体工期の短縮を検討する場合、当初のクリティカルパス上の作業についてのみを検討すればよい。 ／ (4) 施工速度を速めると、直接費（労務費、材料費、仮設費等）と間接費（管理費、共通仮設費等）は、ともに増加する。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.23（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.23",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b25",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "建設工事における安全管理に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "枠組足場以外の高さ2 mの作業床には、墜落のおそれがある箇所には、高さ85 cm以上の手すりを設ければ、中桟を設ける必要はない。"
+      },
+      {
+        "id": "b",
+        "text": "はしご道は、はしごの転倒防止のための措置を行い、はしごの上端を床から60 cm以上突出させなければならない。"
+      },
+      {
+        "id": "c",
+        "text": "事業者は、高さが1 m以上の箇所で作業を行う場合において、強風、大雨、大雪等の悪天候のため危険が予想されるときは、当該作業を行わせてはならない。"
+      },
+      {
+        "id": "d",
+        "text": "事業者は、高さが2 m以上の箇所で作業を行うときは、当該作業を安全に行うために必要な照度を保持しなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a",
+      "c"
+    ],
+    "explanation": "公式の正答肢: (1) 枠組足場以外の高さ2 mの作業床には、墜落のおそれがある箇所には、高さ85 cm以上の手すりを設ければ、中桟を設ける必要はない。 ／ (3) 事業者は、高さが1 m以上の箇所で作業を行う場合において、強風、大雨、大雪等の悪天候のため危険が予想されるときは、当該作業を行わせてはならない。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.25（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.25",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b26",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "機器の据付けに関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "真空又は窒素加圧の状態で据え付けられた冷凍機は、機内を大気に開放した後、配管を接続する。"
+      },
+      {
+        "id": "b",
+        "text": "ボイラー等のバーナーを備えた機器は、機器本体に地震感知器を取り付け、地震時に運転を停止させる。"
+      },
+      {
+        "id": "c",
+        "text": "天井スラブの下面において、あと施工アンカーを上向き設置する場合は、金属拡張アンカーを使用する。"
+      },
+      {
+        "id": "d",
+        "text": "インサートは、工種別に色を分けることで、識別しやすくなり、施工取合いの間違いを避けることができる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a",
+      "b"
+    ],
+    "explanation": "公式の正答肢: (1) 真空又は窒素加圧の状態で据え付けられた冷凍機は、機内を大気に開放した後、配管を接続する。 ／ (2) ボイラー等のバーナーを備えた機器は、機器本体に地震感知器を取り付け、地震時に運転を停止させる。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.26（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.26",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b27",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "配管及び配管附属品の施工に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "排水横走り管からの通気管の取出しは、排水横走り管の直上部ないし直上部から45°以内とする。"
+      },
+      {
+        "id": "b",
+        "text": "通気管の末端は、外気取入れ口や窓等の開口部から水平距離で1 m以上離す。"
+      },
+      {
+        "id": "c",
+        "text": "蒸気横引き配管（先下がり勾配）の径違い管を偏心径違い継手で接続する場合、管内の上面に段差ができないように接続する。"
+      },
+      {
+        "id": "d",
+        "text": "配管用炭素鋼鋼管を溶接接合する場合、管外面の余盛は3 mm以下とし、それを超えた余盛はグラインダー等で除去する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b",
+      "c"
+    ],
+    "explanation": "公式の正答肢: (2) 通気管の末端は、外気取入れ口や窓等の開口部から水平距離で1 m以上離す。 ／ (3) 蒸気横引き配管（先下がり勾配）の径違い管を偏心径違い継手で接続する場合、管内の上面に段差ができないように接続する。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.27（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.27",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b28",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "ダクト及びダクト附属品の施工に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "コーナーボルト工法ダクトに使用するフランジ用ガスケットの継目は、フランジ中央部を避け、コーナー部分においてオーバーラップさせる。"
+      },
+      {
+        "id": "b",
+        "text": "シーリングディフューザーをダクトにボックス接続する場合は、ボックス本体を吊り金物で支持する。"
+      },
+      {
+        "id": "c",
+        "text": "長方形ダクトの直角エルボに設ける案内羽根の板厚は、ダクトの板厚よりも薄くする。"
+      },
+      {
+        "id": "d",
+        "text": "長方形ダクトの主ダクトを割込み分岐する場合、割込みの比率は、風量比で決める。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a",
+      "c"
+    ],
+    "explanation": "公式の正答肢: (1) コーナーボルト工法ダクトに使用するフランジ用ガスケットの継目は、フランジ中央部を避け、コーナー部分においてオーバーラップさせる。 ／ (3) 長方形ダクトの直角エルボに設ける案内羽根の板厚は、ダクトの板厚よりも薄くする。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.28（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.28",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r8b29",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "腐食・防食に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "電気防食法における外部電源方式では、直流電源装置のマイナス端子に被防食体を接続する。"
+      },
+      {
+        "id": "b",
+        "text": "自然電位が大きく相違する配管を接続する場合は、絶縁物を介して接続し、ガルバニック腐食を防止する。"
+      },
+      {
+        "id": "c",
+        "text": "金属溶射は、金属を高温で溶融させた槽内に被処理材を浸漬したのち引き上げ、被処理材の表面に金属被覆を形成させる防食法である。"
+      },
+      {
+        "id": "d",
+        "text": "配管用炭素鋼鋼管（白）は、水のpH値が低くなるほど腐食は進行せず、pH値が高くなるほど腐食が進行する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c",
+      "d"
+    ],
+    "explanation": "公式の正答肢: (3) 金属溶射は、金属を高温で溶融させた槽内に被処理材を浸漬したのち引き上げ、被処理材の表面に金属被覆を形成させる防食法である。 ／ (4) 配管用炭素鋼鋼管（白）は、水のpH値が低くなるほど腐食は進行せず、pH値が高くなるほど腐食が進行する。",
+    "sourceYear": 2026,
+    "sourceExam": "令和8年度 第一次検定 問題B No.29（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.29",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R8_1kan_01_mondaiB.pdf)と正答肢PDF(R8_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7a6",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "伝熱に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "均質な固体壁内部において熱伝導により移動する熱量は、その固体壁内部の温度勾配に比例する。"
+      },
+      {
+        "id": "b",
+        "text": "黒体の熱放射のエネルギーは、その表面の絶対温度の<乗に比例する。"
+      },
+      {
+        "id": "c",
+        "text": "対流熱伝達において、熱伝達率は、接する流体の流速、伝熱面の形状・寸法等によって変わる。"
+      },
+      {
+        "id": "d",
+        "text": "固体壁両側の流体間の熱通過による熱移動量は、固体壁の厚さの:乗に反比例する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 固体壁両側の流体間の熱通過による熱移動量は、固体壁の厚さの:乗に反比例する。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題A No.6（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.6",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiA.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7a15",
+    "genre": "kucho",
+    "format": "single",
+    "question": "空調システムの省エネルギーに効果がある建築的手法の記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "建物の平面形状が長方形の場合、短辺に比べ長辺の長さをできるだけ大きくする。"
+      },
+      {
+        "id": "b",
+        "text": "窓ガラスは、日射熱取得に係る遮へい係数の小さいものを使用する。"
+      },
+      {
+        "id": "c",
+        "text": "外壁面積に対する窓面積の比率を小さくする。"
+      },
+      {
+        "id": "d",
+        "text": "外壁に赤外線の反射率が高い塗料を使用する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 建物の平面形状が長方形の場合、短辺に比べ長辺の長さをできるだけ大きくする。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題A No.15（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.15",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiA.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7a16",
+    "genre": "kucho",
+    "format": "single",
+    "question": "空気調和設備方式に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "変風量単一ダクト方式は、定風量単一ダクト方式に比べ、空気の搬送動力を低減できる。"
+      },
+      {
+        "id": "b",
+        "text": "天井放射冷房方式は、効率的に潜熱負荷を処理できる。"
+      },
+      {
+        "id": "c",
+        "text": "変風量単一ダクト方式は、必要外気量の確保のため、負荷変動の大きな室等では、最小風量の設定を行う。"
+      },
+      {
+        "id": "d",
+        "text": "ファンコイルユニット・ダクト併用方式は、全空気方式に比べ、ダクトスペースが小さくなる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 天井放射冷房方式は、効率的に潜熱負荷を処理できる。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題A No.16（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.16",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiA.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7a19",
+    "genre": "kucho",
+    "format": "single",
+    "question": "負荷熱量による熱源の台数制御を行うために必要な検出要素のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "冷温水往きヘッダー内水温"
+      },
+      {
+        "id": "b",
+        "text": "冷温水還りヘッダー内水温"
+      },
+      {
+        "id": "c",
+        "text": "冷温水往きヘッダー内圧力"
+      },
+      {
+        "id": "d",
+        "text": "冷温水負荷流量"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 冷温水往きヘッダー内圧力",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題A No.19（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.19",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiA.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7a20",
+    "genre": "kucho",
+    "format": "single",
+    "question": "コージェネレーションシステムに関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "受電並列運転（系統連系）は、コージェネレーションシステムによる電力と商用電力を接続し、一体的に電力を供給する方式である。"
+      },
+      {
+        "id": "b",
+        "text": "マイクロガスタービン発電機を用いるシステムでは、ボイラー・タービン主任技術者の選任は不要である。"
+      },
+      {
+        "id": "c",
+        "text": "燃料電池を用いるシステムは、同容量の原動機式と比べて騒音・振動は小さいが、発電効率は低い。"
+      },
+      {
+        "id": "d",
+        "text": "ガスコージェネレーションシステムは、所定の条件を満たすことで常用防災兼用発電装置とすることが可能である。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 燃料電池を用いるシステムは、同容量の原動機式と比べて騒音・振動は小さいが、発電効率は低い。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題A No.20（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.20",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiA.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7a21",
+    "genre": "kucho",
+    "format": "single",
+    "question": "空気熱源ヒートポンプに関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ガスエンジンヒートポンプは、一般的に、エンジンの排気ガスや冷却水からの排熱を回収するための熱交換器を備えている。"
+      },
+      {
+        "id": "b",
+        "text": "電気式の場合、暖房時の除霜運転は、一般的に、冷房サイクルに切り替えて行う。"
+      },
+      {
+        "id": "c",
+        "text": "空冷ユニットを複数台連結するモジュール型は、法定冷凍トンの算定をする場合、連結する全モジュールを合算しなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "冷房サイクルと暖房サイクルの切り替えは、一般的に、配管回路に設置された四方弁により行う。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 空冷ユニットを複数台連結するモジュール型は、法定冷凍トンの算定をする場合、連結する全モジュールを合算しなければならない。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題A No.21（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.21",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiA.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7a27",
+    "genre": "eisei",
+    "format": "single",
+    "question": "下水道に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "合流式の下水道では、降雨の規模によっては、処理施設を経ない下水が公共用水域に放流されることがある。"
+      },
+      {
+        "id": "b",
+        "text": "中継ポンプ場は、下水を次のポンプ場又は処理場まで自然流下できない場合に、自然流下できる高さまで揚水を行う施設である。"
+      },
+      {
+        "id": "c",
+        "text": "取付管は、本管の中心線から上方に取り付ける。"
+      },
+      {
+        "id": "d",
+        "text": "可とう性の管きょを布設する場合の基礎は、管の変形に伴って変形しないものとする。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 可とう性の管きょを布設する場合の基礎は、管の変形に伴って変形しないものとする。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題A No.27（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.27",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiA.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7a30",
+    "genre": "eisei",
+    "format": "single",
+    "question": "給湯設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "中央式給湯設備の熱源に使用する真空式温水発生機の運転には、ボイラー技士等の有資格者が必要である。"
+      },
+      {
+        "id": "b",
+        "text": "中央式給湯設備の循環ポンプの循環量は、循環管路の熱損失と許容温度降下により決定する。"
+      },
+      {
+        "id": "c",
+        "text": "水優先吐水機構をもつシングルレバー式混合水栓は、レバーの中央位置で湯を吐水させないものである。"
+      },
+      {
+        "id": "d",
+        "text": "貯湯タンクは、脚部までを保温し、熱損失を防止する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 中央式給湯設備の熱源に使用する真空式温水発生機の運転には、ボイラー技士等の有資格者が必要である。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題A No.30（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.30",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiA.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7a33",
+    "genre": "eisei",
+    "format": "single",
+    "question": "排水槽に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "排水槽の清掃や維持管理がしやすいように、排水槽の近くに水栓を設ける。"
+      },
+      {
+        "id": "b",
+        "text": "排水槽の貯留時間が長くなるおそれがある場合は、一定時間を経過するとタイマーでポンプを起動させる制御方法を考慮する。"
+      },
+      {
+        "id": "c",
+        "text": "厨房の排水槽に使用する排水ポンプは、一般的に、汚物用水中モーターポンプとする。"
+      },
+      {
+        "id": "d",
+        "text": "排水槽の通気管は、単独で立ち上げ、最上階で伸頂通気管に接続して大気に開放する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 排水槽の通気管は、単独で立ち上げ、最上階で伸頂通気管に接続して大気に開放する。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題A No.33（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.33",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiA.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7a34",
+    "genre": "eisei",
+    "format": "single",
+    "question": "消火設備の消火原理に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "粉末消火設備は、粉末状の消火剤を放射し、燃焼中の炎を拡散効果により消火するものである。"
+      },
+      {
+        "id": "b",
+        "text": "不活性ガス消火設備は、不活性ガスを放射し、酸素の容積比を低下させ、窒息効果により消火するものである。"
+      },
+      {
+        "id": "c",
+        "text": "水噴霧消火設備は、水を霧状に噴霧し、噴霧水による冷却効果と噴霧水が火炎に触れて発生する水蒸気による窒息効果により消火するものである。"
+      },
+      {
+        "id": "d",
+        "text": "泡消火設備は、燃焼物を泡の層で覆い、窒息効果と冷却効果により消火するものである。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 粉末消火設備は、粉末状の消火剤を放射し、燃焼中の炎を拡散効果により消火するものである。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題A No.34（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.34",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiA.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7b5",
+    "genre": "kanri",
+    "format": "single",
+    "question": "機器の据付けに関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "あと施工のメカニカルアンカーボルトは、めねじ型よりおねじ型の方が許容引抜き力が大きい。"
+      },
+      {
+        "id": "b",
+        "text": "防振基礎は、地震時における機器の移動や転倒防止のために、ストッパーボルトを堅固に締め付ける。"
+      },
+      {
+        "id": "c",
+        "text": "Ｖベルト駆動の送風機は、Ｖベルトが下側引張りとなるような回転方向とする。"
+      },
+      {
+        "id": "d",
+        "text": "設備機器に対する地震力の計算には、局部震度法や動的解析によるものがあるが、一般的に、局部震度法で行われている。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 防振基礎は、地震時における機器の移動や転倒防止のために、ストッパーボルトを堅固に締め付ける。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題B No.5（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.5",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiB.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7b9",
+    "genre": "kanri",
+    "format": "single",
+    "question": "腐食・防食に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "溝状腐食は、管の長手方向に溝状に連続して腐食損傷を受けるもので、電縫鋼管の突合せ溶接部に沿ってＶ字状に深く浸食されるものである。"
+      },
+      {
+        "id": "b",
+        "text": "蒸気配管に使用した配管用炭素鋼鋼管（黒）では、還水管より蒸気管（往き管）に腐食が発生しやすい。"
+      },
+      {
+        "id": "c",
+        "text": "蓄熱槽等の空気に開放された水槽が系内にない密閉系冷温水配管では、ほとんど酸素が供給されないので配管の腐食速度は遅い。"
+      },
+      {
+        "id": "d",
+        "text": "溶融めっきは、金属を高温で溶融させた槽内に被処理材を浸漬したのち引き上げ、被処理材の表面に金属被覆を形成させる防食方法である。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 蒸気配管に使用した配管用炭素鋼鋼管（黒）では、還水管より蒸気管（往き管）に腐食が発生しやすい。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題B No.9（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.9",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiB.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r7b29",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "ボイラーの試運転調整に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "蒸気ボイラーの試運転では、低水位燃焼遮断装置用の水位検出器の水位を上げることにより、バーナーが停止し、警報装置が作動することを確認する。"
+      },
+      {
+        "id": "b",
+        "text": "蒸気ボイラーの試運転では、火炎監視装置の前面をふさぎ、始動時の不着火、燃焼中の失火でバーナーが停止することを確認する。"
+      },
+      {
+        "id": "c",
+        "text": "温水ボイラーの試運転では、温水入口及び温水出口の弁を閉じて循環ポンプを起動する。"
+      },
+      {
+        "id": "d",
+        "text": "温水ボイラーの試運転では、缶体に水を張り、水高計により圧力を確認する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a",
+      "c"
+    ],
+    "explanation": "公式の正答肢: (1) 蒸気ボイラーの試運転では、低水位燃焼遮断装置用の水位検出器の水位を上げることにより、バーナーが停止し、警報装置が作動することを確認する。 ／ (3) 温水ボイラーの試運転では、温水入口及び温水出口の弁を閉じて循環ポンプを起動する。",
+    "sourceYear": 2025,
+    "sourceExam": "令和7年度 第一次検定 問題B No.29（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.29",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R7_1kan_01_mondaiB.pdf)と正答肢PDF(R7_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6a8",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "日射に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "直達日射とは、太陽表面から直接地上に到達する太陽放射をいう。"
+      },
+      {
+        "id": "b",
+        "text": "日射のエネルギーは、紫外線部よりも赤外線部及び可視線部に多く含まれている。"
+      },
+      {
+        "id": "c",
+        "text": "日射の大気透過率は、主に大気中に含まれる窒素の量に影響される。"
+      },
+      {
+        "id": "d",
+        "text": "日射により加熱された地表から放射される赤外線の一部は、大気中の水蒸気、二酸化炭素等の温室効果ガスに吸収される。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 日射の大気透過率は、主に大気中に含まれる窒素の量に影響される。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題A No.8（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.8",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiA.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6a16",
+    "genre": "kucho",
+    "format": "single",
+    "question": "空気調和方式に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "床吹出し方式は、吹出口の移動や増設に対応しやすい。"
+      },
+      {
+        "id": "b",
+        "text": "変風量単一ダクト方式は、室の負荷変動に対応しやすい。"
+      },
+      {
+        "id": "c",
+        "text": "全空気方式は、ファンコイルユニット・ダクト併用方式に比べ、中間期の外気冷房を行いやすい。"
+      },
+      {
+        "id": "d",
+        "text": "ファンコイルユニット・ダクト併用方式は、全空気方式に比べて空気の搬送動力が大きい。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) ファンコイルユニット・ダクト併用方式は、全空気方式に比べて空気の搬送動力が大きい。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題A No.16（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.16",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiA.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6a18",
+    "genre": "kucho",
+    "format": "single",
+    "question": "熱負荷計算に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "冷房負荷計算では、北側の外壁には、実効温度差を用いない。"
+      },
+      {
+        "id": "b",
+        "text": "冷房負荷計算では、一般的に、土間床、地中壁からの負荷は見込まない。"
+      },
+      {
+        "id": "c",
+        "text": "空調方式により室内を正圧に保つことができる場合は、一般的に、すきま風による負荷を考慮しない。"
+      },
+      {
+        "id": "d",
+        "text": "暖房負荷計算の構造体負荷は、一般的に、温度差を定常状態として計算する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 冷房負荷計算では、北側の外壁には、実効温度差を用いない。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題A No.18（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.18",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiA.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6a23",
+    "genre": "kucho",
+    "format": "single",
+    "question": "換気設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ボイラー室の換気量は、室内発熱を除去するための換気量のほか、燃焼用空気量を考慮したものとする。"
+      },
+      {
+        "id": "b",
+        "text": "火気使用室の換気を自然換気方式で行う場合、排気筒の有効断面積は、燃料の燃焼に伴う理論廃ガス量、排気筒の高さ等から算出する。"
+      },
+      {
+        "id": "c",
+        "text": "開放式燃焼器具を使用する室は、燃焼用空気を必要とするので、第二種機械換気方式とし、周囲の室より正圧とする。"
+      },
+      {
+        "id": "d",
+        "text": "室内で、有害ガス、粉じん等の室内汚染の発生源が限定される場合には、局所換気を行う。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 開放式燃焼器具を使用する室は、燃焼用空気を必要とするので、第二種機械換気方式とし、周囲の室より正圧とする。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題A No.23（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.23",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiA.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6a32",
+    "genre": "eisei",
+    "format": "single",
+    "question": "排水・通気設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "間接排水管は、衛生面を考慮して、機器・装置の種類又は排水の水質を同じくするものごとに系統を分ける。"
+      },
+      {
+        "id": "b",
+        "text": "通気弁は、大気に開放された伸頂通気管と同様に、正圧緩和の効果が期待できる。"
+      },
+      {
+        "id": "c",
+        "text": "グリース阻集器の能力は、一般的に、厨房を含む食堂面積に基づき選定する。"
+      },
+      {
+        "id": "d",
+        "text": "排水横枝管に分岐がある場合は、それぞれの排水横枝管に通気管を設ける。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 通気弁は、大気に開放された伸頂通気管と同様に、正圧緩和の効果が期待できる。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題A No.32（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.32",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiA.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6a43",
+    "genre": "hoki",
+    "format": "single",
+    "question": "\u001a公共工事標準請負契約約款\u001bに関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "受注者は、請負代金内訳書に健康保険、厚生年金保険及び雇用保険に係る法定福利費を明示するものとする。"
+      },
+      {
+        "id": "b",
+        "text": "発注者の完成検査で、必要と認められる理由を受注者に通知した上で、工事目的物を最小限度破壊する場合、その検査又は復旧に直接要する費用は受注者の負担となる。"
+      },
+      {
+        "id": "c",
+        "text": "受注者は、約款（契約書含む。）及び設計図書に特別の定めがない仮設、施工方法等を定める場合は、監督員の指示によらなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "設計図書の表示が明確でない場合は、監督員に通知して、発注者による確認を請求しなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 受注者は、約款（契約書含む。）及び設計図書に特別の定めがない仮設、施工方法等を定める場合は、監督員の指示によらなければならない。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題A No.43（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.43",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiA.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6b3",
+    "genre": "kanri",
+    "format": "single",
+    "question": "品質管理に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "特性要因図とは、結果に影響を与える各種要因を体系的に表した図で、結果の特性とその原因となる要因の関連が示される。"
+      },
+      {
+        "id": "b",
+        "text": "ヒストグラムは、横軸にデータの値を一定の範囲ごとに区分してとり、縦軸にそれぞれの度数をとることで、データ全体の分布が分かり、ばらつきの状況等が把握できる。"
+      },
+      {
+        "id": "c",
+        "text": "チェックシートとは、データの確認や判断をしやすくしたシートで、品質の状況を集計、整理するものである。"
+      },
+      {
+        "id": "d",
+        "text": "建設工事は、現場ごとの一品生産であるため、統計的手法による品質管理は有効とならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 建設工事は、現場ごとの一品生産であるため、統計的手法による品質管理は有効とならない。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題B No.3（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.3",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiB.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6b6",
+    "genre": "kanri",
+    "format": "single",
+    "question": "配管の施工に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "遠心ポンプの吸込み管は、できるだけ短く、空気だまりができないように配管する。"
+      },
+      {
+        "id": "b",
+        "text": "ステンレス鋼管のフランジ接合でボルトを締付ける際は、隣のボルトを順番に締付け、片締めにならないようにする。"
+      },
+      {
+        "id": "c",
+        "text": "水圧試験は、配管途中もしくは隠ぺい前や埋戻し前、又は配管完了後の被覆施工前に、各区画ごとに行う。"
+      },
+      {
+        "id": "d",
+        "text": "冷媒配管の差込接合は、硬ろうを使用し、管内に不活性ガスを流して酸化物の生成を抑えながら接合する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) ステンレス鋼管のフランジ接合でボルトを締付ける際は、隣のボルトを順番に締付け、片締めにならないようにする。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題B No.6（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.6",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiB.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6b9",
+    "genre": "kanri",
+    "format": "single",
+    "question": "冷凍機の試運転調整に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "冷水ポンプ、冷却水ポンプ、冷却塔のインターロックを確認してから、冷凍機の起動スイッチを入れ、運転を確認する。"
+      },
+      {
+        "id": "b",
+        "text": "温度調節器による容量制御及び自動発停の作動を確認する。"
+      },
+      {
+        "id": "c",
+        "text": "停止サーモスタットの設定値が冷水温度の規定値より高いことを確認する。"
+      },
+      {
+        "id": "d",
+        "text": "冷水量が過度に減少した場合、断水リレーの作動により冷凍機が停止することを確認する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 停止サーモスタットの設定値が冷水温度の規定値より高いことを確認する。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題B No.9（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.9",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiB.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6b15",
+    "genre": "hoki",
+    "format": "single",
+    "question": "請負契約書に記載しなければならない事項に関する記述のうち、\u001a建設業法\u001b上、規定されていないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "工事着手の時期及び工事完成の時期"
+      },
+      {
+        "id": "b",
+        "text": "主任技術者又は監理技術者の氏名"
+      },
+      {
+        "id": "c",
+        "text": "価格等の変動若しくは変更に基づく請負代金の額又は工事内容の変更"
+      },
+      {
+        "id": "d",
+        "text": "各当事者の履行の遅滞その他債務の不履行の場合における遅延利息、違約金その他の損害金"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 主任技術者又は監理技術者の氏名",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題B No.15（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.15",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiB.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6b18",
+    "genre": "hoki",
+    "format": "single",
+    "question": "スプリンクラー設備に関する記述のうち、\u001a消防法\u001b上、誤っているものはどれか。ただし、特定施設水道連結型スプリンクラー設備は除く。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "非常電源を附置する。"
+      },
+      {
+        "id": "b",
+        "text": "消防ポンプ自動車が容易に接近することができる位置に、専用の単口形の送水口を附置する。"
+      },
+      {
+        "id": "c",
+        "text": "開放型スプリンクラーヘッドを用いる一斉開放弁又は手動式開放弁は、放水区域ごとに設ける。"
+      },
+      {
+        "id": "d",
+        "text": "送水口の結合金具は、差込式又はねじ式のものとする。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 消防ポンプ自動車が容易に接近することができる位置に、専用の単口形の送水口を附置する。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題B No.18（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.18",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiB.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6b20",
+    "genre": "hoki",
+    "format": "single",
+    "question": "業務用冷凍空調機器の整備及び撤去等に関する記述のうち、\u001aフロン類の使用の合理化及び管理の適正化に関する法律\u001b上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "第一種フロン類充塡回収業を行おうとする者は、その業務を行おうとする区域を管轄する都道府県知事の登録を受けなければならない。"
+      },
+      {
+        "id": "b",
+        "text": "第一種特定製品に冷媒としてフロン類を充塡するときは、第一種フロン類充塡回収業者が充塡を行わなければならない。"
+      },
+      {
+        "id": "c",
+        "text": "第一種フロン類充塡回収業者が委託を受けてフロン類の充塡を行ったときは、整備を発注した第一種特定製品の管理者に充塡証明書を交付しなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "フロン類破壊業者がフロン類を破壊したときは、当該フロン類を引き取った第一種フロン類充塡回収業者に破壊証明書を送付しなくてよい。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) フロン類破壊業者がフロン類を破壊したときは、当該フロン類を引き取った第一種フロン類充塡回収業者に破壊証明書を送付しなくてよい。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題B No.20（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.20",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiB.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r6b29",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "設備配管の腐食・防食に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ステンレス鋼管に接続する青銅製仕切弁は、弁棒を黄銅製として脱亜鉛腐食を防止する。"
+      },
+      {
+        "id": "b",
+        "text": "防食テープ巻きを施した鋼管は、施工時に被覆が損傷しても、鉄部が露出する陽極部面積が小さい場合、腐食によって短期間に穴があく可能性は小さい。"
+      },
+      {
+        "id": "c",
+        "text": "給湯管に銅管を用いる場合、曲がり部直近で、かい食が発生しないように管内流速に留意する必要がある。"
+      },
+      {
+        "id": "d",
+        "text": "鋼管が土中から鉄筋コンクリートの外壁を貫通する場合、鋼管が鉄筋に触れていなくてもマクロセルを形成し腐食する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a",
+      "b"
+    ],
+    "explanation": "公式の正答肢: (1) ステンレス鋼管に接続する青銅製仕切弁は、弁棒を黄銅製として脱亜鉛腐食を防止する。 ／ (2) 防食テープ巻きを施した鋼管は、施工時に被覆が損傷しても、鉄部が露出する陽極部面積が小さい場合、腐食によって短期間に穴があく可能性は小さい。",
+    "sourceYear": 2024,
+    "sourceExam": "令和6年度 第一次検定 問題B No.29（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.29",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R6_1kan_01_mondaiB.pdf)と正答肢PDF(R6_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a4",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "流体に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "動粘性係数は、粘性係数を流体の速度で除した値であり、粘性の流体運動に及ぼす影響を示す。"
+      },
+      {
+        "id": "b",
+        "text": "ベルヌーイの定理は、流体の持っている運動エネルギー、重力による位置エネルギー及び圧力によるエネルギーの和が流線に沿って一定であることを示している。"
+      },
+      {
+        "id": "c",
+        "text": "水の粘性係数は、圧力が一定の場合、水温の低下とともに大きくなる。"
+      },
+      {
+        "id": "d",
+        "text": "空気の粘性係数は、圧力が一定の場合、温度の低下とともに小さくなる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 動粘性係数は、粘性係数を流体の速度で除した値であり、粘性の流体運動に及ぼす影響を示す。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.4（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.4",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a6",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "ウォーターハンマーに関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "流体の流速と圧力上昇は反比例する。"
+      },
+      {
+        "id": "b",
+        "text": "ジュコフスキーの式により圧力上昇は求められる。"
+      },
+      {
+        "id": "c",
+        "text": "鋼管より硬質塩化ビニル管の方が発生しにくい。"
+      },
+      {
+        "id": "d",
+        "text": "流体の密度が大きいほど、圧力上昇は大きくなる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 流体の流速と圧力上昇は反比例する。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.6（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.6",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a8",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "伝熱に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "熱放射は、電磁波で熱エネルギーが移動する現象であり、その伝達には媒体の存在を必要とせず真空中でも生じる。"
+      },
+      {
+        "id": "b",
+        "text": "流体内において、温度の不均一に基づく密度差で浮力が生じ、流動が起こる場合の熱移動を強制対流熱伝達という。"
+      },
+      {
+        "id": "c",
+        "text": "均質な固体内部において熱伝導により移動する熱量は、その固体内の温度勾配に比例する。"
+      },
+      {
+        "id": "d",
+        "text": "伝熱現象には、熱伝導、対流及び熱放射がある。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 流体内において、温度の不均一に基づく密度差で浮力が生じ、流動が起こる場合の熱移動を強制対流熱伝達という。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.8（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.8",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a9",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "冷却に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "冷媒を使用した冷却は、冷媒が蒸発する際に必要な熱を冷却する物体から奪うことによりおこる。"
+      },
+      {
+        "id": "b",
+        "text": "冷媒に使用される主なものには、アンモニア、フロン類、水等がある。"
+      },
+      {
+        "id": "c",
+        "text": "蒸発した冷媒を液化するためには、圧縮機を用いて機械的に圧縮する方法や吸収剤等により吸収する方法がある。"
+      },
+      {
+        "id": "d",
+        "text": "単段圧縮冷凍サイクルでは、蒸発温度を高く、凝縮温度を低くすると成績係数は小さくなる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 単段圧縮冷凍サイクルでは、蒸発温度を高く、凝縮温度を低くすると成績係数は小さくなる。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.9（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.9",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a15",
+    "genre": "kucho",
+    "format": "single",
+    "question": "建築計画に関する記述のうち、夏期の省エネルギーの観点から、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "建物の平面形状が長方形の場合、長辺が東西面となるように計画する。"
+      },
+      {
+        "id": "b",
+        "text": "外壁面積に対する窓面積の比率を小さくする。"
+      },
+      {
+        "id": "c",
+        "text": "外壁の色は、日射吸収率の小さい白色系とする。"
+      },
+      {
+        "id": "d",
+        "text": "外壁の塗装には、太陽光の赤外線を反射し、建物の温度上昇の抑制に効果のある塗料を使用する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 建物の平面形状が長方形の場合、長辺が東西面となるように計画する。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.15（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.15",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a16",
+    "genre": "kucho",
+    "format": "single",
+    "question": "空気調和方式に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ぺリメーター空気処理方式は、コールドドラフトの防止に有効である。"
+      },
+      {
+        "id": "b",
+        "text": "床吹出し方式は、暖房運転時の居住域における垂直方向の温度差が大きい。"
+      },
+      {
+        "id": "c",
+        "text": "定風量単一ダクト方式は、各室で時刻別負荷変動パターンが異なる場合、各室間で温度のアンバランスが生じやすい。"
+      },
+      {
+        "id": "d",
+        "text": "ファンコイルユニット・ダクト併用方式は、全空気方式に比べ、外気冷房の効果が得にくい。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 床吹出し方式は、暖房運転時の居住域における垂直方向の温度差が大きい。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.16（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.16",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a20",
+    "genre": "kucho",
+    "format": "single",
+    "question": "コージェネレーションシステムに関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "コージェネレーションシステムの発電システムは、所定の条件を満たせば消防法における非常電源として兼用が可能である。"
+      },
+      {
+        "id": "b",
+        "text": "コージェネレーションシステムは、排熱を高温から低温に向けて順次多段階に活用するカスケード利用を行うように配慮する。"
+      },
+      {
+        "id": "c",
+        "text": "受電並列運転（系統連系）は、コージェネレーションシステムによる電力と商用電力を接続し、一体的に供給する方式である。"
+      },
+      {
+        "id": "d",
+        "text": "燃料電池を用いるコージェネレーションシステムは、原動機を用いるコージェネレーションシステムと比べて発電効率が低い。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 燃料電池を用いるコージェネレーションシステムは、原動機を用いるコージェネレーションシステムと比べて発電効率が低い。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.20（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.20",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a21",
+    "genre": "kucho",
+    "format": "single",
+    "question": "ヒートポンプに関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "電気式の場合、除霜運転は、一般的に、四方弁を冷房サイクルに切り替えて行う。"
+      },
+      {
+        "id": "b",
+        "text": "暖房では、圧縮された冷媒が凝縮器で放熱する熱エネルギーを使用する。"
+      },
+      {
+        "id": "c",
+        "text": "空気熱源では、外気温度が高くなると暖房能力が低下する。"
+      },
+      {
+        "id": "d",
+        "text": "地下水等の熱を利用する場合の適応条件としては、容易に得られること、量が豊富でその時間的変化が少ないこと等があげられる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 空気熱源では、外気温度が高くなると暖房能力が低下する。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.21（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.21",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a29",
+    "genre": "eisei",
+    "format": "single",
+    "question": "給水設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "クロスコネクション防止対策として、飲料用給水管と飲料用以外の給水管は、異なる配管材を用いる。"
+      },
+      {
+        "id": "b",
+        "text": "器具給水負荷単位法で瞬時最大給水流量を算定する場合、器具給水負荷単位数に器具の個数による同時使用率を乗じて求める。"
+      },
+      {
+        "id": "c",
+        "text": "住戸数から瞬時最大給水流量を算定する場合、住戸数により段階的に算定式が異なる。"
+      },
+      {
+        "id": "d",
+        "text": "水使用時間率と器具給水単位による方法で配管サイズを決定する際は、任意利用形態か集中利用形態かを確認する必要がある。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 器具給水負荷単位法で瞬時最大給水流量を算定する場合、器具給水負荷単位数に器具の個数による同時使用率を乗じて求める。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.29（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.29",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a34",
+    "genre": "eisei",
+    "format": "single",
+    "question": "消火設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "屋内消火栓設備は、現場に到着した公設消防隊が使用するために設置されるもので、加圧した水をノズルから消火対象物に噴射させて、冷却効果を利用して消火するものである。"
+      },
+      {
+        "id": "b",
+        "text": "スプリンクラー消火設備は、火災を初期段階で自動的に消火する設備であり、水を消火剤とし、冷却効果を利用して消火するものである。"
+      },
+      {
+        "id": "c",
+        "text": "泡消火設備は、水と泡原液を混合させて作る泡水溶液を放出し、燃焼物を厚い泡で覆うことで空気を遮断し、窒息と冷却の効果を利用して消火するものである。"
+      },
+      {
+        "id": "d",
+        "text": "不活性ガス消火設備には、イナートガス消火設備と二酸化炭素消火設備があり、不活性ガスを空気中に放出して酸素の容積比を低下させ窒息効果を利用して消火するものである。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 屋内消火栓設備は、現場に到着した公設消防隊が使用するために設置されるもので、加圧した水をノズルから消火対象物に噴射させて、冷却効果を利用して消火するものである。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.34（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.34",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a36",
+    "genre": "eisei",
+    "format": "single",
+    "question": "浄化槽に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "浄化槽は、し尿、雑排水、工場排水、雨水等を処理する設備又は施設である。"
+      },
+      {
+        "id": "b",
+        "text": "浄化槽の生物学的処理には、生物膜法や活性汚泥法がある。"
+      },
+      {
+        "id": "c",
+        "text": "生物膜法は、接触材に付着した生物膜で浄化する方式であり、回転板接触方式、接触ばっ気方式等がある。"
+      },
+      {
+        "id": "d",
+        "text": "活性汚泥法は、水中に浮遊する微生物を利用し浄化する方式であり、長時間ばっ気方式、標準活性汚泥方式等がある。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 浄化槽は、し尿、雑排水、工場排水、雨水等を処理する設備又は施設である。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.36（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.36",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a37",
+    "genre": "eisei",
+    "format": "single",
+    "question": "浄化槽の処理対象人員の算定に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "体育館は、延べ面積に定数を乗じて算定する。"
+      },
+      {
+        "id": "b",
+        "text": "公衆便所は、利用人員に定数を乗じて算定する。"
+      },
+      {
+        "id": "c",
+        "text": "事務所は、業務用厨房設備の有無により、異なる定数を延べ面積に乗じて算定する。"
+      },
+      {
+        "id": "d",
+        "text": "ホテル・旅館は、結婚式場又は宴会場の有無により、異なる定数を延べ面積に乗じて算定する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 公衆便所は、利用人員に定数を乗じて算定する。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.37（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.37",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a39",
+    "genre": "eisei",
+    "format": "single",
+    "question": "冷却塔に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "開放式冷却塔は、冷却水の一部を蒸発させて、その蒸発潜熱により冷却水温度を下げる装置である。"
+      },
+      {
+        "id": "b",
+        "text": "開放式冷却塔には、充てん材を通過して滴下する水滴の塔外飛散防止として塔本体の外部側面にエリミネーターを設けている。"
+      },
+      {
+        "id": "c",
+        "text": "密閉式冷却塔は、開放式冷却塔に比べて熱交換器等の空気抵抗が大きくなるため、送風機の動力が大きくなる。"
+      },
+      {
+        "id": "d",
+        "text": "外気温度が低い冬季や湿度の高い梅雨期に運転する場合には、周囲の空気より高温で飽和状態に近い冷却塔の吐出し空気が、外気と混合して白煙を発生する場合がある。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 開放式冷却塔には、充てん材を通過して滴下する水滴の塔外飛散防止として塔本体の外部側面にエリミネーターを設けている。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.39（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.39",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a40",
+    "genre": "eisei",
+    "format": "single",
+    "question": "全熱交換器に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "全熱交換器は、建物からの排気と導入外気を熱交換させ、顕熱と潜熱を同時に熱回収できる装置で省エネルギーが図れる。"
+      },
+      {
+        "id": "b",
+        "text": "回転形全熱交換器は、給気側と排気側をセパレートしたケーシング内にハニカムロータを設置し回転させる構造で、給気と排気は直交方向に流れる。"
+      },
+      {
+        "id": "c",
+        "text": "静止形全熱交換器は、給排気を隔てる仕切板と間隔板で構成され、給気と排気は混り合うことはほとんどない。"
+      },
+      {
+        "id": "d",
+        "text": "回転形全熱交換器は、一般的に、顕熱交換効率と潜熱交換効率は、ほぼ同じ値である。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 回転形全熱交換器は、給気側と排気側をセパレートしたケーシング内にハニカムロータを設置し回転させる構造で、給気と排気は直交方向に流れる。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.40（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.40",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5a41",
+    "genre": "eisei",
+    "format": "single",
+    "question": "配管材料及び配管附属品に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "圧力配管用炭素鋼鋼管は、蒸気、高温水等の圧力の高い部分に使用され、スケジュール番号により管の厚さが区分されている。"
+      },
+      {
+        "id": "b",
+        "text": "配管用炭素鋼鋼管（白）は、水配管用亜鉛めっき鋼管よりも亜鉛付着量が多いため、耐食性に優れている。"
+      },
+      {
+        "id": "c",
+        "text": "外ねじ式仕切弁は、ハンドルを回転させることにより弁棒が昇降することから、外部から弁の開度を確認することができる。"
+      },
+      {
+        "id": "d",
+        "text": "架橋ポリエチレン管は、中密度・高密度ポリエチレンを架橋反応させることで、耐熱性、耐クリープ性を向上させた管である。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 配管用炭素鋼鋼管（白）は、水配管用亜鉛めっき鋼管よりも亜鉛付着量が多いため、耐食性に優れている。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題A No.41（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.41",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiA.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5b10",
+    "genre": "kanri",
+    "format": "single",
+    "question": "腐食、防食に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "冷温水管に用いる配管用炭素鋼鋼管（白）は、溝状腐食が発生しにくい鍛接鋼管や耐溝状腐食電縫鋼管を使用する。"
+      },
+      {
+        "id": "b",
+        "text": "電気防食法における流電陽極方式は、マグネシウム合金等を犠牲陽極として使用する。"
+      },
+      {
+        "id": "c",
+        "text": "配管用炭素鋼鋼管（白）は、pH値が低くなるほど腐食は進行せず、pH値が高くなるほど腐食が進行する。"
+      },
+      {
+        "id": "d",
+        "text": "自然電位が大きく相違する配管を接続する場合は、絶縁物を介して接続し、ガルバニック腐食を防止する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 配管用炭素鋼鋼管（白）は、pH値が低くなるほど腐食は進行せず、pH値が高くなるほど腐食が進行する。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題B No.10（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.10",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiB.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5b11",
+    "genre": "hoki",
+    "format": "single",
+    "question": "建設工事現場における安全管理体制に関する記述のうち、\u001a労働安全衛生法\u001b上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "特定元方事業者は、各週ごとに、作業場所の巡視を行わなければならない。"
+      },
+      {
+        "id": "b",
+        "text": "事業者は、総括安全衛生管理者を選任したときは、遅滞なく、報告書を労働基準監督署長に提出しなければならない。"
+      },
+      {
+        "id": "c",
+        "text": "事業者は、選任した産業医に、労働者の健康管理等を行わせなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "特定元方事業者による元方安全衛生管理者の選任は、その事業場に専属の者としなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 特定元方事業者は、各週ごとに、作業場所の巡視を行わなければならない。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題B No.11（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.11",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiB.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5b16",
+    "genre": "hoki",
+    "format": "single",
+    "question": "建設業の種類のうち、\u001a建設業法\u001b上、指定建設業に該当しないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "建築工事業"
+      },
+      {
+        "id": "b",
+        "text": "機械器具設置工事業"
+      },
+      {
+        "id": "c",
+        "text": "管工事業"
+      },
+      {
+        "id": "d",
+        "text": "土木工事業"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 機械器具設置工事業",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題B No.16（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.16",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiB.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5b17",
+    "genre": "hoki",
+    "format": "single",
+    "question": "建設工事における施工体制に関する記述のうち、\u001a建設業法\u001b上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "建設業者は、発注者から直接請け負った建設工事を下請契約を行わずに自ら施工する場合は、主任技術者を置かなくてもよい。"
+      },
+      {
+        "id": "b",
+        "text": "主任技術者の専任が必要な建設工事で、密接な関係のある二つの建設工事を同一の場所で施工する場合は、同一の専任の主任技術者とすることができる。"
+      },
+      {
+        "id": "c",
+        "text": "施工体制台帳の作成を要する建設工事を請け負った建設業者は、その下請負人に関する事項として、健康保険等の加入状況を施工体制台帳に記載しなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "施工体制台帳の作成を要する建設工事を請け負った建設業者は、建設工事の目的物の引渡しをするまで、施工体系図を工事現場の見やすい場所に掲示しなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 建設業者は、発注者から直接請け負った建設工事を下請契約を行わずに自ら施工する場合は、主任技術者を置かなくてもよい。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題B No.17（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.17",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiB.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5b18",
+    "genre": "hoki",
+    "format": "single",
+    "question": "消防用設備等に関する記述のうち、\u001a消防法\u001b上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "消防用設備等は、消防の用に供する設備、消防用水及び消火活動上必要な施設とする。"
+      },
+      {
+        "id": "b",
+        "text": "消防の用に供する設備は、消火設備、警報設備及び避難設備とする。"
+      },
+      {
+        "id": "c",
+        "text": "消火活動上必要な施設には、排煙設備は含まれない。"
+      },
+      {
+        "id": "d",
+        "text": "消火設備には、水バケツは含まれる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 消火活動上必要な施設には、排煙設備は含まれない。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題B No.18（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.18",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiB.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5b21",
+    "genre": "hoki",
+    "format": "single",
+    "question": "フロンに関する記述のうち、\u001aフロン類の使用の合理化及び管理の適正化に関する法律\u001b上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "第一種特定製品とは、エアコンディショナー並びに冷蔵機器及び冷凍機器のうち、業務用の機器であって、冷媒としてフロン類が充塡されているもの（第二種特定製品を除く。）をいう。"
+      },
+      {
+        "id": "b",
+        "text": "第二種特定製品とは、自動車（\u001a使用済自動車の再資源化等に関する法律\u001bの対象のものに限る。）に搭載されているエアコンディショナー（車両のうち乗車のために設備された場所の冷房の用に供するものに限る。）であって、冷媒としてフロン類が充塡されているものをいう。"
+      },
+      {
+        "id": "c",
+        "text": "第一種フロン類充塡回収業者とは、第一種特定製品に、冷媒としてフロン類を充塡することや回収することを業とし行う者として、都道府県知事の登録を受けた者をいう。"
+      },
+      {
+        "id": "d",
+        "text": "フロン類破壊業者とは、特定製品に冷媒として充塡されているフロン類の破壊を業とし行う者として、都道府県知事の許可を受けた者をいう。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) フロン類破壊業者とは、特定製品に冷媒として充塡されているフロン類の破壊を業とし行う者として、都道府県知事の許可を受けた者をいう。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題B No.21（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.21",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiB.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5b24",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "工程管理に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ネットワーク工程表のクリティカルパス以外の作業は、フロートを消化してもクリティカルパスになることはない。"
+      },
+      {
+        "id": "b",
+        "text": "ネットワーク工程表で、点線の矢印で示したものをダミーというが、この経路はクリティカルパスになることはない。"
+      },
+      {
+        "id": "c",
+        "text": "配員計画とは、経済的かつ合理的となるよう各作業の作業人数を調整し、人員の平準化を図ることで、マンパワースケジューリングともいう。"
+      },
+      {
+        "id": "d",
+        "text": "労務費、材料費、仮設費等の直接費と間接費を合わせた総工事費が最小となる経済的な施工速度を経済速度といい、このときの工期を最適工期という。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a",
+      "b"
+    ],
+    "explanation": "公式の正答肢: (1) ネットワーク工程表のクリティカルパス以外の作業は、フロートを消化してもクリティカルパスになることはない。 ／ (2) ネットワーク工程表で、点線の矢印で示したものをダミーというが、この経路はクリティカルパスになることはない。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題B No.24（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.24",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiB.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r5b25",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "検査に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "検査とは、品質を確認し適否を判定するもので、全数検査と抜取検査がある。"
+      },
+      {
+        "id": "b",
+        "text": "品物を破壊しなければ検査の目的を達しないもの、あるいは、試験を行ったら商品価値がなくなるものは、全数検査を適用する。"
+      },
+      {
+        "id": "c",
+        "text": "多数の製品や材料等の中から確実に良品のみを選別する場合、抜取検査を適用する。"
+      },
+      {
+        "id": "d",
+        "text": "取外し困難な機器の試験、配管の水圧試験等には、全数検査を適用する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b",
+      "c"
+    ],
+    "explanation": "公式の正答肢: (2) 品物を破壊しなければ検査の目的を達しないもの、あるいは、試験を行ったら商品価値がなくなるものは、全数検査を適用する。 ／ (3) 多数の製品や材料等の中から確実に良品のみを選別する場合、抜取検査を適用する。",
+    "sourceYear": 2023,
+    "sourceExam": "令和5年度 第一次検定 問題B No.25（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.25",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R5_1kan_01_mondaiB.pdf)と正答肢PDF(R5_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a2",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "冬季における外壁の結露に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "室内空気の流動が少なくなると、壁面の表面温度が低下し、結露を生じやすい。"
+      },
+      {
+        "id": "b",
+        "text": "外壁に断熱材を用いると、熱通過率が小さくなり結露を生じにくい。"
+      },
+      {
+        "id": "c",
+        "text": "多層壁の構造体の内部における各点の水蒸気分圧を、その点における飽和水蒸気圧より低くすることにより、結露を防止することができる。"
+      },
+      {
+        "id": "d",
+        "text": "暖房をしている室内では、一般的に、天井付近に比べて床付近の方が結露を生じにくい。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 暖房をしている室内では、一般的に、天井付近に比べて床付近の方が結露を生じにくい。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.2（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.2",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a4",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "流体に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "管種以外の条件が同じ場合、硬質塩化ビニル管は鋼管よりウォーターハンマーが発生しやすい。"
+      },
+      {
+        "id": "b",
+        "text": "キャビテーションとは、流体の静圧が局部的に飽和蒸気圧より低下し、気泡が発生する現象をいう。"
+      },
+      {
+        "id": "c",
+        "text": "流体の粘性による摩擦応力の影響は、一般的に、壁面近くで顕著に現れる。"
+      },
+      {
+        "id": "d",
+        "text": "液体の自由な表面で、その液面を縮小しようとする性質により表面に働く力を、表面張力という。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 管種以外の条件が同じ場合、硬質塩化ビニル管は鋼管よりウォーターハンマーが発生しやすい。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.4（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.4",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a8",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "燃焼に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "燃料を完全燃焼させるために理論的に必要な空気量を理論空気量という。"
+      },
+      {
+        "id": "b",
+        "text": "燃料が理論空気量で完全燃焼した際に生じる燃焼ガス量を理論燃焼ガス量（理論廃ガス量）という。"
+      },
+      {
+        "id": "c",
+        "text": "空気過剰率が大きすぎると、廃ガスによる熱損失が増大する。"
+      },
+      {
+        "id": "d",
+        "text": "固体燃料は、空気と接する燃料の表面が大きいため、理論空気量に近い空気量で完全燃焼する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 固体燃料は、空気と接する燃料の表面が大きいため、理論空気量に近い空気量で完全燃焼する。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.8（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.8",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a9",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "湿り空気に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "飽和湿り空気の温度を上げても、絶対湿度は変わらない。"
+      },
+      {
+        "id": "b",
+        "text": "湿り空気をその露点温度より高い温度の冷却コイルで冷却すると、絶対湿度は上がる。"
+      },
+      {
+        "id": "c",
+        "text": "湿り空気を水スプレーで加湿しても、湿球温度はほとんど変わらない。"
+      },
+      {
+        "id": "d",
+        "text": "湿り空気を蒸気スプレーで加湿すると、絶対湿度と相対湿度は上がる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 湿り空気をその露点温度より高い温度の冷却コイルで冷却すると、絶対湿度は上がる。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.9（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.9",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a12",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "低圧屋内配線工事に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "同一電線管に多数の電線を収納すると許容電流は増加する。"
+      },
+      {
+        "id": "b",
+        "text": "同一ボックス内に低圧の電線と弱電流電線を収納する場合は、直接接触しないように隔壁を設ける。"
+      },
+      {
+        "id": "c",
+        "text": "電動機端子箱への電源接続部には、金属製可とう電線管を使用する。"
+      },
+      {
+        "id": "d",
+        "text": "回路の遮断によって公共の安全に支障が生じる回路には、漏電遮断器に代えて漏電警報器を設けることができる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 同一電線管に多数の電線を収納すると許容電流は増加する。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.12（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.12",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a13",
+    "genre": "kogaku",
+    "format": "single",
+    "question": "鉄筋に対するコンクリートのかぶり厚さに関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "スペーサーは、鉄筋のかぶり厚さを保つためのものである。"
+      },
+      {
+        "id": "b",
+        "text": "基礎の鉄筋のかぶり厚さは、捨てコンクリート部分を含めた厚さとする。"
+      },
+      {
+        "id": "c",
+        "text": "かぶり厚さの確保には、火災時に鉄筋の強度低下を抑える効果がある。"
+      },
+      {
+        "id": "d",
+        "text": "床スラブの最小かぶり厚さは、土に接する部分より土に接しない部分の方が小さい。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 基礎の鉄筋のかぶり厚さは、捨てコンクリート部分を含めた厚さとする。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.13（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.13",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a16",
+    "genre": "kucho",
+    "format": "single",
+    "question": "空気調和方式に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "床吹出し方式は、吹出口の移動や増設によりレイアウト変更に対応しやすい。"
+      },
+      {
+        "id": "b",
+        "text": "大温度差送風（低温送風）方式は、送風量の低減によりダクトサイズを小さくすることができる。"
+      },
+      {
+        "id": "c",
+        "text": "エアフローウィンドウ方式は、窓面で熱負荷を除去することにより、日射や外気温度による室内への熱の影響を小さくすることができる。"
+      },
+      {
+        "id": "d",
+        "text": "天井放射冷房方式は、効率的に潜熱負荷を処理できるため快適性が高い。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 天井放射冷房方式は、効率的に潜熱負荷を処理できるため快適性が高い。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.16（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.16",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a18",
+    "genre": "kucho",
+    "format": "single",
+    "question": "冷房負荷計算に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "窓ガラスからの負荷は、室内外の温度差による通過熱と、透過する太陽日射熱とに区分して計算する。"
+      },
+      {
+        "id": "b",
+        "text": "人体からの発生熱量は、室温が下がるほど顕熱が小さくなり、潜熱が大きくなる。"
+      },
+      {
+        "id": "c",
+        "text": "土間床、地中壁からの通過熱負荷は、一般的に、年間を通じて熱損失側であるため無視する。"
+      },
+      {
+        "id": "d",
+        "text": "北側のガラス窓からの熱負荷は、日射の影響も考慮する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 人体からの発生熱量は、室温が下がるほど顕熱が小さくなり、潜熱が大きくなる。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.18（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.18",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a21",
+    "genre": "kucho",
+    "format": "single",
+    "question": "蓄熱方式に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "二次側配管系を開放回路とした場合、密閉回路に比べてポンプ揚程が増大する。"
+      },
+      {
+        "id": "b",
+        "text": "氷蓄熱方式は、融解潜熱を利用するため、水蓄熱方式に比べて蓄熱槽の容量が大きくなる。"
+      },
+      {
+        "id": "c",
+        "text": "蓄熱槽には、建物の二重スラブ内等に水槽を設置する完全混合型、水深の深い水槽を用いる温度成層型等がある。"
+      },
+      {
+        "id": "d",
+        "text": "熱源機器は、空調負荷の変動に直接追従する必要がなく、効率のよい運転ができる。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 氷蓄熱方式は、融解潜熱を利用するため、水蓄熱方式に比べて蓄熱槽の容量が大きくなる。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.21（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.21",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a29",
+    "genre": "eisei",
+    "format": "single",
+    "question": "給水設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "高置タンク方式における揚水ポンプの揚水量は、一般的に、時間最大予想給水量に基づき決定する。"
+      },
+      {
+        "id": "b",
+        "text": "吐水口空間とは、給水栓又は給水管の吐水口端とあふれ縁との垂直距離をいい、この空間を十分に確保することにより逆流汚染を防止する。"
+      },
+      {
+        "id": "c",
+        "text": "玉形弁（グローブ弁）は流量の調整に適しており、圧力損失は仕切弁（ゲート弁）に比べて小さい。"
+      },
+      {
+        "id": "d",
+        "text": "水道直結増圧方式の立て管には、断水時に配管内が負圧にならないように、最上部に吸排気弁を設置する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 玉形弁（グローブ弁）は流量の調整に適しており、圧力損失は仕切弁（ゲート弁）に比べて小さい。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.29（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.29",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a32",
+    "genre": "eisei",
+    "format": "single",
+    "question": "排水・通気設備に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "各個通気の通気管接続箇所は、大便器その他これと類似の器具を除き、トラップウエアより低い位置に設けてはならない。"
+      },
+      {
+        "id": "b",
+        "text": "グリース阻集器の容量算定において、阻集グリース及び堆積残さの質量算定には掃除周期が関係する。"
+      },
+      {
+        "id": "c",
+        "text": "間接排水管は、衛生面を考慮して、機器・装置の種類又は排水の水質を同じくするものごとに系統を分ける。"
+      },
+      {
+        "id": "d",
+        "text": "伸頂通気方式における排水横管の許容流量は、各個及びループ通気方式の場合の許容流量と同じである。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 伸頂通気方式における排水横管の許容流量は、各個及びループ通気方式の場合の許容流量と同じである。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.32（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.32",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a34",
+    "genre": "eisei",
+    "format": "single",
+    "question": "スプリンクラー設備の種類と概要に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "閉鎖型スプリンクラーヘッドを用いた湿式スプリンクラー設備は、火災報知器の感知又は手動によりポンプが作動し消火するものである。"
+      },
+      {
+        "id": "b",
+        "text": "閉鎖型スプリンクラーヘッドを用いた乾式スプリンクラー設備は、スプリンクラーヘッドが熱により開栓し、管内空気の圧力低下を感知することでポンプが作動し消火するものである。"
+      },
+      {
+        "id": "c",
+        "text": "閉鎖型スプリンクラーヘッドを用いた予作動式スプリンクラー設備は、火災報知器の感知により予作動弁が開放し、管内空気の圧力低下の感知によりポンプが作動するとともに、スプリンクラーヘッドが熱により開栓し消火するものである。"
+      },
+      {
+        "id": "d",
+        "text": "開放型スプリンクラーヘッドを用いたスプリンクラー設備は、火災報知器の感知によりポンプが作動するか、手動により一斉開放弁を開いて消火するものである。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 閉鎖型スプリンクラーヘッドを用いた湿式スプリンクラー設備は、火災報知器の感知又は手動によりポンプが作動し消火するものである。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.34（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.34",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4a39",
+    "genre": "eisei",
+    "format": "single",
+    "question": "吸収冷凍機及び吸収冷温水機に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ガス吸収冷温水機の容量制御は、ガスバーナの燃焼量を調節して制御する。"
+      },
+      {
+        "id": "b",
+        "text": "吸収冷温水機で暖房用の温水を取り出す方法には、蒸発器から温水を得るものがある。"
+      },
+      {
+        "id": "c",
+        "text": "二重効用吸収冷凍機は、一般的には、高圧蒸気により高温再生器と低温再生器を同時に加熱するものである。"
+      },
+      {
+        "id": "d",
+        "text": "二重効用吸収冷凍機の高温再生器は、一重効用吸収冷凍機の再生器に比べて高温の加熱媒体を必要とする。"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 二重効用吸収冷凍機は、一般的には、高圧蒸気により高温再生器と低温再生器を同時に加熱するものである。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題A No.39（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.39",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiA.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4b9",
+    "genre": "kanri",
+    "format": "single",
+    "question": "機器の試運転調整に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "ボイラーの試運転では、地震感知装置による燃料停止を確認する。"
+      },
+      {
+        "id": "b",
+        "text": "軸封装置がメカニカルシールのポンプの試運転では、しゅう動部からほとんど漏水がないことを確認する。"
+      },
+      {
+        "id": "c",
+        "text": "冷凍機の試運転では、温度調節器による自動発停の作動を確認する。"
+      },
+      {
+        "id": "d",
+        "text": "揚水ポンプの試運転では、高置タンクの満水警報の発報により、揚水ポンプが停止することを確認する。"
+      }
+    ],
+    "correctAnswerIds": [
+      "d"
+    ],
+    "explanation": "公式の正答肢: (4) 揚水ポンプの試運転では、高置タンクの満水警報の発報により、揚水ポンプが停止することを確認する。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題B No.9（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.9",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiB.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4b10",
+    "genre": "kanri",
+    "format": "single",
+    "question": "腐食・防食に関する記述のうち、適当でないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "蒸気配管系統に配管用炭素鋼鋼管（黒）を使用する場合、蒸気管（往き管）は、還水管よりも腐食が発生しやすい。"
+      },
+      {
+        "id": "b",
+        "text": "電気防食法における外部電源方式では、直流電源装置のマイナス端子に被防食体を接続する。"
+      },
+      {
+        "id": "c",
+        "text": "溶融めっきは、金属を高温で溶融させた槽中に被処理材を浸漬したのち引き上げ、被処理材の表面に金属被覆を形成させる防食方法である。"
+      },
+      {
+        "id": "d",
+        "text": "密閉系冷温水配管では、ほとんど酸素が供給されないので配管の腐食速度は遅い。"
+      }
+    ],
+    "correctAnswerIds": [
+      "a"
+    ],
+    "explanation": "公式の正答肢: (1) 蒸気配管系統に配管用炭素鋼鋼管（黒）を使用する場合、蒸気管（往き管）は、還水管よりも腐食が発生しやすい。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題B No.10（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.10",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiB.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4b13",
+    "genre": "hoki",
+    "format": "single",
+    "question": "労働条件に関する記述のうち、\u001a労働基準法\u001b上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "使用者は、労働契約の締結に際し、労働者に対して賃金、労働時間その他の労働条件を明示しなければならない。"
+      },
+      {
+        "id": "b",
+        "text": "労働基準法で定める基準に達しない労働条件を定める労働契約は、その労働契約のすべてにおいて無効とする。"
+      },
+      {
+        "id": "c",
+        "text": "使用者は、労働契約の不履行について違約金を定め、又は損害賠償額を予定する契約をしてはならない。"
+      },
+      {
+        "id": "d",
+        "text": "使用者は、労働契約に附随して貯蓄の契約をさせ、又は貯蓄金を管理する契約をしてはならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 労働基準法で定める基準に達しない労働条件を定める労働契約は、その労働契約のすべてにおいて無効とする。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題B No.13（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.13",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiB.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。",
+    "shuffle": false
+  },
+  {
+    "id": "r4b16",
+    "genre": "hoki",
+    "format": "single",
+    "question": "請負契約書に記載しなければならない事項に関する記述のうち、\u001a建設業法\u001b上、規定されていないものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "各当事者の履行の遅滞その他債務の不履行の場合における遅延利息、違約金その他の損害金"
+      },
+      {
+        "id": "b",
+        "text": "価格等の変動若しくは変更に基づく請負代金の額又は工事内容の変更"
+      },
+      {
+        "id": "c",
+        "text": "現場代理人の権限に関する事項及び現場代理人の行為についての注文者の請負人に対する意見の提出方法"
+      },
+      {
+        "id": "d",
+        "text": "天災その他不可抗力による工期の変更又は損害の負担及びその額の算定方法に関する定め"
+      }
+    ],
+    "correctAnswerIds": [
+      "c"
+    ],
+    "explanation": "公式の正答肢: (3) 現場代理人の権限に関する事項及び現場代理人の行為についての注文者の請負人に対する意見の提出方法",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題B No.16（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.16",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiB.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4b21",
+    "genre": "hoki",
+    "format": "single",
+    "question": "業務用冷凍空調機器の整備及び撤去等に関する記述のうち、\u001aフロン類の使用の合理化及び管理の適正化に関する法律\u001b上、誤っているものはどれか。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "第一種特定製品整備者は、第一種特定製品にフロン類を充塡するときは、第一種フロン類充塡回収業者に委託しなければならない。"
+      },
+      {
+        "id": "b",
+        "text": "第一種フロン類充塡回収業を行おうとする者は、環境大臣の登録を受けなければならない。"
+      },
+      {
+        "id": "c",
+        "text": "第一種フロン類充塡回収業者が委託を受けてフロン類の回収を行ったときは、整備を発注した第一種特定製品の管理者に回収証明書を交付しなければならない。"
+      },
+      {
+        "id": "d",
+        "text": "フロン類破壊業者がフロン類を破壊したときは、当該フロン類を引き取った第一種フロン類充塡回収業者に破壊証明書を送付しなければならない。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b"
+    ],
+    "explanation": "公式の正答肢: (2) 第一種フロン類充塡回収業を行おうとする者は、環境大臣の登録を受けなければならない。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題B No.21（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.21",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiB.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  },
+  {
+    "id": "r4b24",
+    "genre": "kanri",
+    "format": "multiple",
+    "question": "工程管理に関する記述のうち、適当でないものはどれか。適当でないものは二つあるので、二つとも答えなさい。",
+    "choices": [
+      {
+        "id": "a",
+        "text": "工程表作成時に注意すべき項目は、作業の順序と作業時間、休日や夜間の作業制限、諸官庁への申請・届出、試運転調整、検査時期、季節の天候等がある。"
+      },
+      {
+        "id": "b",
+        "text": "ネットワーク工程表には、前作業が遅れた場合の後続作業への影響度が把握しにくいという短所がある。"
+      },
+      {
+        "id": "c",
+        "text": "ネットワーク工程表で全体工程の短縮を検討する場合は、当初のクリティカルパス上の作業についてのみ日程短縮を検討すればよい。"
+      },
+      {
+        "id": "d",
+        "text": "工期の途中で工程計画をチェックし、現実の推移を入れて調整することをフォローアップという。"
+      }
+    ],
+    "correctAnswerIds": [
+      "b",
+      "c"
+    ],
+    "explanation": "公式の正答肢: (2) ネットワーク工程表には、前作業が遅れた場合の後続作業への影響度が把握しにくいという短所がある。 ／ (3) ネットワーク工程表で全体工程の短縮を検討する場合は、当初のクリティカルパス上の作業についてのみ日程短縮を検討すればよい。",
+    "sourceYear": 2022,
+    "sourceExam": "令和4年度 第一次検定 問題B No.24（1級管工事施工管理技術検定）",
+    "sourceQuestionNo": "No.24",
+    "sourceReference": "全国建設研修センター公表の試験問題PDF(R4_1kan_01_mondaiB.pdf)と正答肢PDF(R4_1kan_01_kaitou.pdf)の記載どおり。ふりがなを除き、文言は原文のまま",
+    "checkedAt": "2026-11-10",
+    "verificationStatus": "verified",
+    "rightsStatus": "user_supplied_official_past_exam",
+    "revisionNotes": "ユーザー提供の公式PDFから転記。解説は公式に無いため付けていない（正答肢のみ表示）。権利関係は公開者が確認すること。"
+  }
+]

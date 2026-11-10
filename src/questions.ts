@@ -1,4 +1,5 @@
 import raw from './data/questions.json';
+import pastRaw from './data/past_questions.json';
 import type { GenreId } from './data';
 
 export type VerificationStatus = 'verified' | 'needs_review' | 'rejected';
@@ -32,7 +33,8 @@ export interface Question {
 /** ゲームに出題してよい検証状況。未確認(needs_review)は含めない */
 export const INCLUDED_STATUSES: VerificationStatus[] = ['verified'];
 
-export const ALL_QUESTIONS = raw as unknown as Question[];
+/** 独自作問（questions.json）と、公式過去問から取り込んだ問題（past_questions.json） */
+export const ALL_QUESTIONS = [...(raw as unknown as Question[]), ...(pastRaw as unknown as Question[])];
 export const QUESTIONS: Question[] = ALL_QUESTIONS.filter((q) => INCLUDED_STATUSES.includes(q.verificationStatus));
 
 const GENRE_IDS = ['kanri', 'eisei', 'kogaku', 'hoki', 'kucho'];
